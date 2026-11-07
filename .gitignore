@@ -1,0 +1,12 @@
+# Local-only registries and generated archives
+**/.fingerprints/
+*.zip
+*.7z
+*.rar
+~$*
+*.tmp
+*.bak
+__pycache__/
+Thumbs.db
+desktop.ini
+.DS_Store

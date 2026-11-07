@@ -1,0 +1,15 @@
+# 本地登记信息，不进入复习资料仓库
+/.fingerprints/
+
+# 避免把旧压缩包、临时转换与渲染文件再次上传
+*.zip
+*.7z
+*.rar
+~$*
+*.tmp
+*.bak
+__pycache__/
+Thumbs.db
+desktop.ini
+.DS_Store
+/.整理临时/
