@@ -8,6 +8,7 @@
 | --- | --- |
 | 高等数学（2-1） | [复习路线、知识点与真题分析](高数2-1/README.md) |
 | 离散数学 | [课件、习题、试卷与答案](离散数学/README.md) |
+| 程序设计（C / C++） | [零基础学习路线与241道逐题讲解](程序设计/README.md) |
 | 军理 | [考试题库和复习提纲](军理/README.md) |
 
 ## 高等数学（2-1）
@@ -34,12 +35,16 @@
 
 [进入军理资料目录](军理/README.md)：考试题库和复习提纲（原文件标识202511）。
 
+## 程序设计（C / C++）
+
+[进入程序设计学习资料](程序设计/README.md)：241道已保存题目逐题解答、讲解、知识点和相似题跳转，附可运行源码及样例测试。循环结构另有80题正文待补。
+
 ## 下载与更新
 
 在仓库的 **Code → Download ZIP** 下载全部资料，或使用 Git 克隆：
 
 ```bash
-git clone https://github.com/Seven-out-of-nine/youzhuan-tongguan-miji.git
+git clone https://github.com/Seven-out-of-nine/upc-tongguan-miji.git
 ```
 
 补充资料时保留现有目录与文件名，并更新对应的导航。复习总结和分析报告为Markdown，可在GitHub直接阅读；DOC／DOCX原件可下载查看。

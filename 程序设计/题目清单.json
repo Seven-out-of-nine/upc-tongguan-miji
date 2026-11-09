@@ -1,0 +1,3311 @@
+[
+  {
+    "id": "ch02-01",
+    "title": "[1.01]Hello world.编程练习★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-01.md",
+    "language": "c",
+    "tags": [
+      "固定输出",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch02-02",
+    "title": "[1.02]倒三角输出★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-02.md",
+    "language": "c",
+    "tags": [
+      "固定输出",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch02-03",
+    "title": "[2.01]数字自动应答器★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-03.md",
+    "language": "c",
+    "tags": [
+      "输入输出",
+      "整数变量"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch02-04",
+    "title": "[3.01]整数四则运算★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-04.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "取余",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch02-05",
+    "title": "[3.02]整型变量的输出★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-05.md",
+    "language": "c",
+    "tags": [
+      "整数变量",
+      "初始化",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch02-06",
+    "title": "[3.03]实型变量练习★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-06.md",
+    "language": "c",
+    "tags": [
+      "实数运算",
+      "初始化",
+      "小数格式"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch02-07",
+    "title": "[3.04]简单整数求和运算A+B★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-07.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "输入输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch02-08",
+    "title": "[3.05]简单实数求和运算★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-08.md",
+    "language": "c",
+    "tags": [
+      "实数运算",
+      "小数格式",
+      "输入输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch02-09",
+    "title": "[3.06]运算的练习1★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-09.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "取余",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch02-10",
+    "title": "[3.07]运算练习2★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-10.md",
+    "language": "c",
+    "tags": [
+      "数字拆分",
+      "整数运算",
+      "取余"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch02-11",
+    "title": "[3.08]分离整数★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-11.md",
+    "language": "c",
+    "tags": [
+      "数字拆分",
+      "整数运算",
+      "取余"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch02-12",
+    "title": "[3.09]圆的相关计算★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-12.md",
+    "language": "c",
+    "tags": [
+      "实数运算",
+      "公式计算",
+      "小数格式"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch02-13",
+    "title": "[3.10]求三角形面积★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-13.md",
+    "language": "c",
+    "tags": [
+      "公式计算",
+      "数学函数",
+      "实数运算"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch02-14",
+    "title": "[4.01]printf和scanf★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-14.md",
+    "language": "c",
+    "tags": [
+      "进制转换",
+      "类型转换",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 14
+  },
+  {
+    "id": "ch02-15",
+    "title": "[4.02]不同国家日期写法★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-15.md",
+    "language": "c",
+    "tags": [
+      "输入输出",
+      "格式化输出",
+      "日期时间"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 15
+  },
+  {
+    "id": "ch02-16",
+    "title": "[4.03]字符的ASCII值★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-16.md",
+    "language": "c",
+    "tags": [
+      "字符",
+      "ASCII",
+      "输入输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 16
+  },
+  {
+    "id": "ch02-17",
+    "title": "[4.04]简单加密★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-17.md",
+    "language": "c",
+    "tags": [
+      "字符",
+      "ASCII",
+      "字符转换"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 17
+  },
+  {
+    "id": "ch02-18",
+    "title": "[4.05]混合类型数据格式化输入★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-18.md",
+    "language": "c",
+    "tags": [
+      "输入输出",
+      "字符",
+      "小数格式"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 18
+  },
+  {
+    "id": "ch02-19",
+    "title": "[4.06]冰箱的温度★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-19.md",
+    "language": "c",
+    "tags": [
+      "公式计算",
+      "实数运算",
+      "小数格式"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 19
+  },
+  {
+    "id": "ch02-20",
+    "title": "[4.07]鸡兔同笼★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-20.md",
+    "language": "c",
+    "tags": [
+      "公式计算",
+      "整数运算",
+      "方程建模"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 20
+  },
+  {
+    "id": "ch02-21",
+    "title": "[4.08]旅行时间和花费★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-21.md",
+    "language": "c",
+    "tags": [
+      "公式计算",
+      "实数运算",
+      "小数格式"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 21
+  },
+  {
+    "id": "ch02-22",
+    "title": "[4.09]战斗机加速度★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-22.md",
+    "language": "c",
+    "tags": [
+      "公式计算",
+      "单位换算",
+      "实数运算"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 22
+  },
+  {
+    "id": "ch02-23",
+    "title": "[4.10]ACM罚时★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-23.md",
+    "language": "c",
+    "tags": [
+      "日期时间",
+      "整数运算",
+      "格式化输入"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 23
+  },
+  {
+    "id": "ch02-24",
+    "title": "[4.11]时间戳★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-24.md",
+    "language": "c",
+    "tags": [
+      "日期时间",
+      "取余",
+      "数字拆分"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 24
+  },
+  {
+    "id": "ch02-25",
+    "title": "[4.12]超市硬币处理机★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-25.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "单位换算",
+      "取余"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 25
+  },
+  {
+    "id": "ch02-26",
+    "title": "[4.13]计算火车运行时间1★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-26.md",
+    "language": "c",
+    "tags": [
+      "日期时间",
+      "数字拆分",
+      "格式化输出"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 26
+  },
+  {
+    "id": "ch02-27",
+    "title": "[4.14]Theatre Square★★★",
+    "chapter": "第2章 程序设计基础",
+    "page": "problems/ch02-27.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "向上取整",
+      "方程建模"
+    ],
+    "source": "【测验】第2章 程序设计基础.html",
+    "source_number": 27
+  },
+  {
+    "id": "ch03-branch-01",
+    "title": "[5.01]选择最佳的通信线路★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-01.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "最值"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch03-branch-02",
+    "title": "[5.02]信号的复杂变化问题★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-02.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "分段函数",
+      "整数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch03-branch-03",
+    "title": "[5.03]寻找不一样的信号★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-03.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "比较运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch03-branch-04",
+    "title": "[5.04]计算通信系统的搭建时间★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-04.md",
+    "language": "c",
+    "tags": [
+      "日期时间",
+      "条件分支",
+      "逻辑运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch03-branch-05",
+    "title": "[5.05]邮局包裹邮寄★★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-05.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "分段函数",
+      "逻辑运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch03-branch-06",
+    "title": "[5.06]苹果和虫子★★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-06.md",
+    "language": "c",
+    "tags": [
+      "向上取整",
+      "条件分支",
+      "取余"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch03-branch-07",
+    "title": "[5.07]计算时钟的夹角★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-07.md",
+    "language": "c",
+    "tags": [
+      "日期时间",
+      "条件分支",
+      "绝对值"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch03-branch-08",
+    "title": "[5.08]整数位数判断★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-08.md",
+    "language": "c",
+    "tags": [
+      "数字拆分",
+      "循环",
+      "输入校验"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch03-branch-09",
+    "title": "[5.09]判断闰年★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-09.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "逻辑运算",
+      "日期时间"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch03-branch-10",
+    "title": "[5.10] 四位数拆分★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-10.md",
+    "language": "c",
+    "tags": [
+      "数字拆分",
+      "条件分支",
+      "取余"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch03-branch-11",
+    "title": "[5.11]判断三角形的形状★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-11.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "几何判断",
+      "逻辑运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch03-branch-12",
+    "title": "[5.12]判断某年某月的天数★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-12.md",
+    "language": "c",
+    "tags": [
+      "日期时间",
+      "条件分支",
+      "逻辑运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch03-branch-13",
+    "title": "[5.13]通信系统的建设费用问题★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-13.md",
+    "language": "c",
+    "tags": [
+      "最值",
+      "条件分支",
+      "方程建模"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch03-branch-14",
+    "title": "[5.14]翻译星期几★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-14.md",
+    "language": "c",
+    "tags": [
+      "switch",
+      "条件分支",
+      "映射"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 14
+  },
+  {
+    "id": "ch03-branch-15",
+    "title": "[5.15]一共跑了几天操★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-15.md",
+    "language": "c",
+    "tags": [
+      "周期问题",
+      "日期时间",
+      "取余"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 15
+  },
+  {
+    "id": "ch03-branch-16",
+    "title": "[5.16]计算一元二次方程的根★★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-16.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "数学函数",
+      "浮点比较"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 16
+  },
+  {
+    "id": "ch03-branch-17",
+    "title": "[5.17]比较两个数大小★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-17.md",
+    "language": "c",
+    "tags": [
+      "交换",
+      "排序",
+      "条件分支"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 17
+  },
+  {
+    "id": "ch03-branch-18",
+    "title": "[5.18]排序三个数大小★★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-18.md",
+    "language": "c",
+    "tags": [
+      "排序",
+      "交换",
+      "小数格式"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 18
+  },
+  {
+    "id": "ch03-branch-19",
+    "title": "[5.19]简易计算器★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-19.md",
+    "language": "c",
+    "tags": [
+      "switch",
+      "实数运算",
+      "类型转换"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 19
+  },
+  {
+    "id": "ch03-branch-20",
+    "title": "[5.20]判断成绩区间★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-20.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "分段函数",
+      "输入校验"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 20
+  },
+  {
+    "id": "ch03-branch-21",
+    "title": "[5.21]判断字符类型★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-21.md",
+    "language": "c",
+    "tags": [
+      "字符",
+      "ASCII",
+      "条件分支"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 21
+  },
+  {
+    "id": "ch03-branch-22",
+    "title": "[5.22]体型判断★★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-22.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "分段函数",
+      "实数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 22
+  },
+  {
+    "id": "ch03-branch-23",
+    "title": "[5.23]小明赴约会★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-23.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "逻辑运算",
+      "日期时间"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 23
+  },
+  {
+    "id": "ch03-branch-24",
+    "title": "[5.24]三天打鱼两天晒网★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-24.md",
+    "language": "c",
+    "tags": [
+      "周期问题",
+      "取余",
+      "条件分支"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 24
+  },
+  {
+    "id": "ch03-branch-25",
+    "title": "[5.25] 最大值★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-25.md",
+    "language": "c",
+    "tags": [
+      "最值",
+      "条件分支"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 25
+  },
+  {
+    "id": "ch03-branch-26",
+    "title": "[5.26] 花钱买衣服★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-26.md",
+    "language": "c",
+    "tags": [
+      "最值",
+      "条件分支",
+      "方程建模"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 26
+  },
+  {
+    "id": "ch03-branch-27",
+    "title": "[5.27]分段函数★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-27.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "分段函数",
+      "整数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 27
+  },
+  {
+    "id": "ch03-branch-28",
+    "title": "[5.28]绝对值★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-28.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "绝对值",
+      "实数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 28
+  },
+  {
+    "id": "ch03-branch-29",
+    "title": "[5.29]奇偶数★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-29.md",
+    "language": "c",
+    "tags": [
+      "取余",
+      "条件分支",
+      "整数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 29
+  },
+  {
+    "id": "ch03-branch-30",
+    "title": "[5.30]温度转换★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-30.md",
+    "language": "c",
+    "tags": [
+      "单位换算",
+      "条件分支",
+      "实数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 30
+  },
+  {
+    "id": "ch03-branch-31",
+    "title": "[5.31]出租车计费★★",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-31.md",
+    "language": "c",
+    "tags": [
+      "分段函数",
+      "条件分支",
+      "整数运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 31
+  },
+  {
+    "id": "ch03-branch-32",
+    "title": "[5.98]字符类型判断【★】",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-32.md",
+    "language": "c",
+    "tags": [
+      "字符",
+      "ASCII",
+      "条件分支"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 32
+  },
+  {
+    "id": "ch03-branch-33",
+    "title": "[5.99]三角形形状判断【★★】",
+    "chapter": "第3章 分支结构",
+    "page": "problems/ch03-branch-33.md",
+    "language": "c",
+    "tags": [
+      "条件分支",
+      "几何判断",
+      "逻辑运算"
+    ],
+    "source": "【测验】第3章 part1分支.html",
+    "source_number": 33
+  },
+  {
+    "id": "ch03-function-01",
+    "title": "【函数】F7.01求最大值【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-01.md",
+    "language": "c",
+    "tags": [
+      "函数",
+      "比较大小"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch03-function-02",
+    "title": "【函数】F7.02 数的合并【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-02.md",
+    "language": "c",
+    "tags": [
+      "数位拆分",
+      "函数",
+      "整数运算"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch03-function-03",
+    "title": "【函数】F7.03 素数的判断【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-03.md",
+    "language": "c",
+    "tags": [
+      "素数",
+      "试除法",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch03-function-04",
+    "title": "【函数】F7.04 求阶乘【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-04.md",
+    "language": "c",
+    "tags": [
+      "阶乘",
+      "累乘",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch03-function-05",
+    "title": "【函数】F7.05 求级数【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-05.md",
+    "language": "c",
+    "tags": [
+      "级数",
+      "递推",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch03-function-06",
+    "title": "【函数】F7.06 浮点数四舍五入【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-06.md",
+    "language": "c",
+    "tags": [
+      "四舍五入",
+      "浮点数",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch03-function-07",
+    "title": "【函数】F7.07 长整型截短【★★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-07.md",
+    "language": "c",
+    "tags": [
+      "数位拆分",
+      "筛选",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch03-function-08",
+    "title": "【函数】F7.08 偶数分解【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-08.md",
+    "language": "c",
+    "tags": [
+      "素数",
+      "试除法",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch03-function-09",
+    "title": "【函数】F7.09 公式求解【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-09.md",
+    "language": "c",
+    "tags": [
+      "级数",
+      "递推",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch03-function-10",
+    "title": "【函数】F7.10 杀鸡用牛刀【★★★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-10.md",
+    "language": "c",
+    "tags": [
+      "递归",
+      "区间求和",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch03-function-11",
+    "title": "【函数】F7.11 求最大公约数【★★★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-11.md",
+    "language": "c",
+    "tags": [
+      "递归",
+      "最大公约数",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch03-function-12",
+    "title": "【函数】F7.12 求数列的第N项【★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-12.md",
+    "language": "c",
+    "tags": [
+      "递归",
+      "数列",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch03-function-13",
+    "title": "【函数】F7.13富翁与骗子【★★】",
+    "chapter": "第3章 函数初步",
+    "page": "problems/ch03-function-13.md",
+    "language": "c",
+    "tags": [
+      "累加",
+      "倍增",
+      "函数"
+    ],
+    "source": "【测验】第3章 part2函数初步.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch04-01",
+    "title": "[6.01]最大公约数和最小公倍数★★",
+    "chapter": "第4章 循环结构",
+    "page": "problems/ch04-01.md",
+    "language": "c",
+    "tags": [
+      "辗转相除法",
+      "循环",
+      "因数枚举"
+    ],
+    "source": "【测验】第4章 循环结构.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch05-array-01",
+    "title": "8.01 小明摘苹果【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-01.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "计数",
+      "条件判断"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch05-array-02",
+    "title": "8.02 A+B Format【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-02.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "格式化输出",
+      "整数运算"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch05-array-03",
+    "title": "8.03 矩阵存储【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-03.md",
+    "language": "c",
+    "tags": [
+      "二维位置",
+      "图形输出",
+      "循环"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch05-array-04",
+    "title": "8.04 杨辉三角【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-04.md",
+    "language": "c",
+    "tags": [
+      "杨辉三角",
+      "大整数",
+      "递推",
+      "格式化输出"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch05-array-05",
+    "title": "8.05 倒立杨辉三角【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-05.md",
+    "language": "c",
+    "tags": [
+      "杨辉三角",
+      "二维数组",
+      "格式化输出"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch05-array-06",
+    "title": "8.06 挑选小白鼠【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-06.md",
+    "language": "c",
+    "tags": [
+      "最大最小值",
+      "记录位置",
+      "格式化输出"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch05-array-07",
+    "title": "8.07 谁能出线【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-07.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "最大值",
+      "计数"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch05-array-08",
+    "title": "8.08 歌手大奖赛【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-08.md",
+    "language": "c",
+    "tags": [
+      "平均值",
+      "最大最小值",
+      "累加"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch05-array-09",
+    "title": "8.09 Box of Brick【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-09.md",
+    "language": "c",
+    "tags": [
+      "平均值",
+      "贪心",
+      "累加"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch05-array-10",
+    "title": "8.10 买股票【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-10.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "最大值",
+      "记录位置"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch05-array-11",
+    "title": "8.11 矩阵最大值【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-11.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "最大值",
+      "记录位置"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch05-array-12",
+    "title": "8.12 数组周边元素【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-12.md",
+    "language": "c",
+    "tags": [
+      "二维位置",
+      "边界判断",
+      "累加"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch05-array-13",
+    "title": "8.13 考试成绩【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-13.md",
+    "language": "c",
+    "tags": [
+      "行列累加",
+      "平均值",
+      "数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch05-array-14",
+    "title": "8.14 找鞍点【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-14.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "最大最小值",
+      "查找"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 14
+  },
+  {
+    "id": "ch05-array-15",
+    "title": "8.15 Xman修剪花圃【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-15.md",
+    "language": "c",
+    "tags": [
+      "对角线",
+      "最大最小值",
+      "累加"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 15
+  },
+  {
+    "id": "ch05-array-16",
+    "title": "8.16 移动数组元素【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-16.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "循环移位",
+      "下标"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 16
+  },
+  {
+    "id": "ch05-array-17",
+    "title": "8.17 交换理发师傅【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-17.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "逆序",
+      "下标"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 17
+  },
+  {
+    "id": "ch05-array-18",
+    "title": "8.18 互换礼物【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-18.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "逆序",
+      "下标"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 18
+  },
+  {
+    "id": "ch05-array-19",
+    "title": "8.19 矩阵转置【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-19.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "矩阵转置",
+      "下标"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 19
+  },
+  {
+    "id": "ch05-array-20",
+    "title": "8.20 图像旋转【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-20.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "图像旋转",
+      "下标"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 20
+  },
+  {
+    "id": "ch05-array-21",
+    "title": "8.21 顺序查找【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-21.md",
+    "language": "c",
+    "tags": [
+      "顺序查找",
+      "数组",
+      "标志变量"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 21
+  },
+  {
+    "id": "ch05-array-22",
+    "title": "8.22 寻找重复数字【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-22.md",
+    "language": "c",
+    "tags": [
+      "频数统计",
+      "去重",
+      "数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 22
+  },
+  {
+    "id": "ch05-array-23",
+    "title": "8.23 寻找非共有数字【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-23.md",
+    "language": "c",
+    "tags": [
+      "顺序查找",
+      "去重",
+      "函数",
+      "数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 23
+  },
+  {
+    "id": "ch05-array-24",
+    "title": "8.24 二分查找【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-24.md",
+    "language": "c",
+    "tags": [
+      "二分查找",
+      "有序数组",
+      "循环"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 24
+  },
+  {
+    "id": "ch05-array-25",
+    "title": "8.25 军训排队【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-25.md",
+    "language": "c",
+    "tags": [
+      "有序插入",
+      "数组",
+      "元素移动"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 25
+  },
+  {
+    "id": "ch05-array-26",
+    "title": "8.26 各位数字组最大数【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-26.md",
+    "language": "c",
+    "tags": [
+      "数位拆分",
+      "频数统计",
+      "排序"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 26
+  },
+  {
+    "id": "ch05-array-27",
+    "title": "8.27 “顺”还是“不顺”【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-27.md",
+    "language": "c",
+    "tags": [
+      "频数统计",
+      "连续整数",
+      "条件判断"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 27
+  },
+  {
+    "id": "ch05-array-28",
+    "title": "8.28 第二价格竞拍【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-28.md",
+    "language": "c",
+    "tags": [
+      "最大最小值",
+      "多组输入",
+      "记录位置"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 28
+  },
+  {
+    "id": "ch05-array-29",
+    "title": "8.29 合唱队形【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-29.md",
+    "language": "c",
+    "tags": [
+      "选择排序",
+      "数组重排",
+      "下标"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 29
+  },
+  {
+    "id": "ch05-array-30",
+    "title": "8.30 输油管道【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-30.md",
+    "language": "c",
+    "tags": [
+      "中位数",
+      "排序",
+      "绝对值"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 30
+  },
+  {
+    "id": "ch05-array-31",
+    "title": "8.31 顺序编号【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-31.md",
+    "language": "c",
+    "tags": [
+      "排名",
+      "数组",
+      "计数"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 31
+  },
+  {
+    "id": "ch05-array-32",
+    "title": "8.32 出现最多的数字【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-32.md",
+    "language": "c",
+    "tags": [
+      "数位统计",
+      "频数统计",
+      "字符串"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 32
+  },
+  {
+    "id": "ch05-array-33",
+    "title": "8.33 门禁系统【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-33.md",
+    "language": "c",
+    "tags": [
+      "频数统计",
+      "数组",
+      "顺序处理"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 33
+  },
+  {
+    "id": "ch05-array-34",
+    "title": "8.34 统计素数【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-34.md",
+    "language": "c",
+    "tags": [
+      "素数",
+      "筛法",
+      "标记数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 34
+  },
+  {
+    "id": "ch05-array-35",
+    "title": "8.35 南门的树【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-35.md",
+    "language": "c",
+    "tags": [
+      "区间标记",
+      "数组",
+      "去重"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 35
+  },
+  {
+    "id": "ch05-array-36",
+    "title": "8.36 百灯熄灭【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-36.md",
+    "language": "c",
+    "tags": [
+      "模拟",
+      "状态翻转",
+      "数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 36
+  },
+  {
+    "id": "ch05-array-37",
+    "title": "8.37 到底有多远【★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-37.md",
+    "language": "c",
+    "tags": [
+      "二分查找",
+      "有序数组",
+      "位置差"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 37
+  },
+  {
+    "id": "ch05-array-38",
+    "title": "8.38 黑色星期五【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-38.md",
+    "language": "c",
+    "tags": [
+      "日期",
+      "闰年",
+      "数组",
+      "取余"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 38
+  },
+  {
+    "id": "ch05-array-39",
+    "title": "8.39 起床的烦恼【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-39.md",
+    "language": "c",
+    "tags": [
+      "预处理",
+      "数位统计",
+      "数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 39
+  },
+  {
+    "id": "ch05-array-40",
+    "title": "8.40 装箱问题【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-40.md",
+    "language": "c",
+    "tags": [
+      "模拟",
+      "数组",
+      "首次适应"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 40
+  },
+  {
+    "id": "ch05-array-41",
+    "title": "8.41 纪念品分组【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-41.md",
+    "language": "c",
+    "tags": [
+      "贪心",
+      "计数排序",
+      "双指针"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 41
+  },
+  {
+    "id": "ch05-array-42",
+    "title": "TJ8.01 排序与查找【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-42.md",
+    "language": "c",
+    "tags": [
+      "插入排序",
+      "顺序查找",
+      "平行数组"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 42
+  },
+  {
+    "id": "ch05-array-43",
+    "title": "TJ8.02 导弹速度【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-43.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "向量内积",
+      "整数溢出"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 43
+  },
+  {
+    "id": "ch05-array-44",
+    "title": "TJ8.03 修改矩阵【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-44.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "下三角",
+      "格式化输出"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 44
+  },
+  {
+    "id": "ch05-array-45",
+    "title": "TJ8.04 矩阵加法【★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-45.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "矩阵加法",
+      "格式化输出"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 45
+  },
+  {
+    "id": "ch05-array-46",
+    "title": "TJ8.07 数制转换【★★★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-46.md",
+    "language": "c",
+    "tags": [
+      "进制转换",
+      "枚举",
+      "字符串"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 46
+  },
+  {
+    "id": "ch05-array-47",
+    "title": "TJ8.08 The Himalayas【★★★】",
+    "chapter": "第5章 数组",
+    "page": "problems/ch05-array-47.md",
+    "language": "c",
+    "tags": [
+      "数组",
+      "相邻比较",
+      "计数",
+      "多组输入"
+    ],
+    "source": "【测验】第5章 part1数组.html",
+    "source_number": 47
+  },
+  {
+    "id": "ch05-string-01",
+    "title": "10.01 不带空格的字符串输入输出【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-01.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "输入输出"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch05-string-02",
+    "title": "10.02 带空格的字符串输入输出【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-02.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "整行输入"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch05-string-03",
+    "title": "10.03 字符变换【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-03.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符转换"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch05-string-04",
+    "title": "10.04 数字提取【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-04.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "数字提取",
+      "大整数"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch05-string-05",
+    "title": "10.05 整数分离【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-05.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "数字提取",
+      "分段扫描"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch05-string-06",
+    "title": "10.06 Your Ride Is Here【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-06.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符映射",
+      "取模"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch05-string-07",
+    "title": "10.07 YY and YY again【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-07.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch05-string-08",
+    "title": "10.08 单词译码【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-08.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符转换",
+      "取模"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch05-string-09",
+    "title": "10.09 单词缩写【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-09.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "单词处理"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch05-string-10",
+    "title": "10.10 字符出现的次数【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-10.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch05-string-11",
+    "title": "10.11 字符出现的频率【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-11.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "频率统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch05-string-12",
+    "title": "10.12 单词统计【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-12.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "单词处理",
+      "哨兵输入"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch05-string-13",
+    "title": "10.13 字母简化【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-13.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "分段扫描"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch05-string-14",
+    "title": "10.14 合法标识符【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-14.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "条件判断"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 14
+  },
+  {
+    "id": "ch05-string-15",
+    "title": "10.15 安全密码【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-15.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "分类统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 15
+  },
+  {
+    "id": "ch05-string-16",
+    "title": "10.16 删除指定字符【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-16.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符过滤"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 16
+  },
+  {
+    "id": "ch05-string-17",
+    "title": "10.17 删除指定字符串【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-17.md",
+    "language": "cpp",
+    "tags": [
+      "字符串",
+      "字符过滤"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 17
+  },
+  {
+    "id": "ch05-string-18",
+    "title": "10.18 删除重复字符【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-18.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "去重",
+      "频率统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 18
+  },
+  {
+    "id": "ch05-string-19",
+    "title": "10.19 字符串删除【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-19.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "区间处理"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 19
+  },
+  {
+    "id": "ch05-string-20",
+    "title": "10.20 索马里海盗【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-20.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符过滤"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 20
+  },
+  {
+    "id": "ch05-string-21",
+    "title": "10.21 字符串合并【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-21.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符串连接"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 21
+  },
+  {
+    "id": "ch05-string-22",
+    "title": "10.22 字符接龙【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-22.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "双指针",
+      "有序合并"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 22
+  },
+  {
+    "id": "ch05-string-23",
+    "title": "10.23 指定位置插入字符串【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-23.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "查找",
+      "插入"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 23
+  },
+  {
+    "id": "ch05-string-24",
+    "title": "10.24 字符串比较大小【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-24.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字典序"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 24
+  },
+  {
+    "id": "ch05-string-25",
+    "title": "10.25 相同的字符串【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-25.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "去重",
+      "频率统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 25
+  },
+  {
+    "id": "ch05-string-26",
+    "title": "10.26 独一无二的字符串【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-26.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "频率统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 26
+  },
+  {
+    "id": "ch05-string-27",
+    "title": "10.27 回文串【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-27.md",
+    "language": "cpp",
+    "tags": [
+      "字符串",
+      "双指针",
+      "回文"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 27
+  },
+  {
+    "id": "ch05-string-28",
+    "title": "10.28 字符串重排列【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-28.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "频率统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 28
+  },
+  {
+    "id": "ch05-string-29",
+    "title": "10.29 城市名排序【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-29.md",
+    "language": "cpp",
+    "tags": [
+      "字符串",
+      "排序",
+      "字典序"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 29
+  },
+  {
+    "id": "ch05-string-30",
+    "title": "10.30 字符第一次出现的位置【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-30.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "查找"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 30
+  },
+  {
+    "id": "ch05-string-31",
+    "title": "10.31 字符最后一次出现的位置【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-31.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "查找"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 31
+  },
+  {
+    "id": "ch05-string-32",
+    "title": "10.32 找第一个只出现一次的字符【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-32.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "频率统计",
+      "查找"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 32
+  },
+  {
+    "id": "ch05-string-33",
+    "title": "10.33 上课点名 【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-33.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "查找",
+      "集合"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 33
+  },
+  {
+    "id": "ch05-string-34",
+    "title": "10.34 小明去过的城市【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-34.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "查找",
+      "频率统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 34
+  },
+  {
+    "id": "ch05-string-35",
+    "title": "10.35 GLB串【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-35.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "子串查找"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 35
+  },
+  {
+    "id": "ch05-string-36",
+    "title": "10.36 字符串匹配【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-36.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "子串查找"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 36
+  },
+  {
+    "id": "ch05-string-37",
+    "title": "10.37 营业额【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-37.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "大整数",
+      "进位"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 37
+  },
+  {
+    "id": "ch05-string-38",
+    "title": "10.38 大数的乘法【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-38.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "大整数",
+      "竖式乘法"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 38
+  },
+  {
+    "id": "ch05-string-39",
+    "title": "10.39 身份证的奥秘1【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-39.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "校验码",
+      "加权求和"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 39
+  },
+  {
+    "id": "ch05-string-40",
+    "title": "10.40 镜像文字【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-40.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "逆序",
+      "回文"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 40
+  },
+  {
+    "id": "ch05-string-41",
+    "title": "10.41 GLB串升级版【★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-41.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "集合",
+      "字符统计"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 41
+  },
+  {
+    "id": "ch05-string-42",
+    "title": "10.42 ISBN号码【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-42.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "校验码",
+      "加权求和"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 42
+  },
+  {
+    "id": "ch05-string-43",
+    "title": "10.43 垂直柱状图【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-43.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "频率统计",
+      "图形输出"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 43
+  },
+  {
+    "id": "ch05-string-44",
+    "title": "10.44 奇怪的A+B【★★★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-44.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "单词处理",
+      "数字提取"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 44
+  },
+  {
+    "id": "ch05-string-45",
+    "title": "10.45 库函数技巧【★】",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-45.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "循环移位"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 45
+  },
+  {
+    "id": "ch05-string-46",
+    "title": "TJ10.02 A==B？★★",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-46.md",
+    "language": "cpp",
+    "tags": [
+      "字符串",
+      "数值规范化",
+      "大整数"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 46
+  },
+  {
+    "id": "ch05-string-47",
+    "title": "TJ10.07 字符串王国的种族★★",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-47.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "去重",
+      "集合"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 47
+  },
+  {
+    "id": "ch05-string-48",
+    "title": "TJ10.10 首字母大写★★",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-48.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "单词处理",
+      "字符转换"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 48
+  },
+  {
+    "id": "ch05-string-49",
+    "title": "TJ10.11 反序输出英文单词★",
+    "chapter": "第5章 字符串",
+    "page": "problems/ch05-string-49.md",
+    "language": "cpp",
+    "tags": [
+      "字符串",
+      "单词处理",
+      "逆序"
+    ],
+    "source": "【测验】第5章 part2字符串.html",
+    "source_number": 49
+  },
+  {
+    "id": "ch06-01",
+    "title": "【函数+字符数组】F10.2 删除字符【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-01.md",
+    "language": "c",
+    "tags": [
+      "字符串筛选",
+      "字符数组",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch06-02",
+    "title": "【函数+字符数组】F10.3 字符移位【★★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-02.md",
+    "language": "c",
+    "tags": [
+      "字符串重排",
+      "字符数组"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch06-03",
+    "title": "【函数+字符数组】F10.4 组新串【★★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-03.md",
+    "language": "c",
+    "tags": [
+      "字符串合并",
+      "ASCII比较"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch06-04",
+    "title": "【函数+字符数组】F10.5 列优先存放【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-04.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "列优先遍历"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch06-05",
+    "title": "【函数+字符数组】F10.6 删除星号【★★★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-05.md",
+    "language": "c",
+    "tags": [
+      "字符串筛选",
+      "双下标"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch06-06",
+    "title": "【函数+字符数组】F10.8 字符串转换成整数【★★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-06.md",
+    "language": "c",
+    "tags": [
+      "数制转换",
+      "字符转数字"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch06-07",
+    "title": "F11.03 字符移动【★】【函数+字符数组】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-07.md",
+    "language": "c",
+    "tags": [
+      "循环移位",
+      "字符数组"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch06-08",
+    "title": "F11.08 删除指定字符【★★】【函数+字符数组】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-08.md",
+    "language": "c",
+    "tags": [
+      "字符串删除",
+      "双下标"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch06-09",
+    "title": "【函数+字符数组】FTJ11.03 字符移动★",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-09.md",
+    "language": "c",
+    "tags": [
+      "循环移位",
+      "字符数组"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch06-10",
+    "title": "F11.06 字符串匹配【★★】【函数+字符数组+指针】【改错】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-10.md",
+    "language": "c",
+    "tags": [
+      "字符串匹配",
+      "指针遍历",
+      "改错题"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch06-11",
+    "title": "F11.01 统计字符【★】 【函数+字符数组+指针】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-11.md",
+    "language": "c",
+    "tags": [
+      "指针参数",
+      "字符分类"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch06-12",
+    "title": "F11.09 统计子串【★★★】【函数+字符数组+指针】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-12.md",
+    "language": "c",
+    "tags": [
+      "字符串匹配",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch06-13",
+    "title": "【函数+指针】F9.1 两数合并【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-13.md",
+    "language": "c",
+    "tags": [
+      "数位拆分",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch06-14",
+    "title": "【函数+指针】F9.2 房价打折【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-14.md",
+    "language": "c",
+    "tags": [
+      "类型转换",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 14
+  },
+  {
+    "id": "ch06-15",
+    "title": "【函数+指针】F9.3 只保留整数中的奇数位【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-15.md",
+    "language": "c",
+    "tags": [
+      "数位拆分",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 15
+  },
+  {
+    "id": "ch06-16",
+    "title": "【函数+整型数组】F10.7 素数【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-16.md",
+    "language": "c",
+    "tags": [
+      "素数判断",
+      "循环查找"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 16
+  },
+  {
+    "id": "ch06-17",
+    "title": "F11.04 数据移动【★★】【函数+整型数组】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-17.md",
+    "language": "c",
+    "tags": [
+      "数组循环移位",
+      "临时数组"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 17
+  },
+  {
+    "id": "ch06-18",
+    "title": "F11.02 最值问题【★】【函数+整型数组+指针】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-18.md",
+    "language": "c",
+    "tags": [
+      "数组最值",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 18
+  },
+  {
+    "id": "ch06-19",
+    "title": "F11.05 非偶数除数【★★】【函数+整型数组+指针】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-19.md",
+    "language": "c",
+    "tags": [
+      "因数枚举",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 19
+  },
+  {
+    "id": "ch06-20",
+    "title": "【函数+整型数组+指针】F11.07 统计奇偶数【★】",
+    "chapter": "第6章 指针与函数",
+    "page": "problems/ch06-20.md",
+    "language": "c",
+    "tags": [
+      "分类求和",
+      "指针参数"
+    ],
+    "source": "【测验】第6章 指针与函数.html",
+    "source_number": 20
+  },
+  {
+    "id": "ch07-01",
+    "title": "1.01 用C++实现日历功能【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-01.md",
+    "language": "cpp",
+    "tags": [
+      "类与对象",
+      "封装"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 1
+  },
+  {
+    "id": "ch07-02",
+    "title": "1.02 用面向对象程序设计实现简单计算器功能【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-02.md",
+    "language": "cpp",
+    "tags": [
+      "类与对象",
+      "分支判断",
+      "多组输入"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 2
+  },
+  {
+    "id": "ch07-03",
+    "title": "1.03 用面向对象程序设计求长方形的周长和面积【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-03.md",
+    "language": "cpp",
+    "tags": [
+      "类与对象",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 3
+  },
+  {
+    "id": "ch07-04",
+    "title": "2.02 C++程序实现函数重载【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-04.md",
+    "language": "cpp",
+    "tags": [
+      "函数重载",
+      "类型转换"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 4
+  },
+  {
+    "id": "ch07-05",
+    "title": "2.03 输出Fibonacci数列的前20项【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-05.md",
+    "language": "cpp",
+    "tags": [
+      "动态内存",
+      "递推",
+      "输出域宽"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 5
+  },
+  {
+    "id": "ch07-06",
+    "title": "2.04 编写C++程序实现排序输出【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-06.md",
+    "language": "cpp",
+    "tags": [
+      "引用参数",
+      "交换"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 6
+  },
+  {
+    "id": "ch07-07",
+    "title": "3.01 定义一个Dog类，实现并测试该类【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-07.md",
+    "language": "cpp",
+    "tags": [
+      "构造函数",
+      "封装"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 7
+  },
+  {
+    "id": "ch07-08",
+    "title": "3.02 设计一个矩形类Rectangle，根据其左上角和右下角坐标计算矩形面积【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-08.md",
+    "language": "cpp",
+    "tags": [
+      "类与对象",
+      "坐标几何"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 8
+  },
+  {
+    "id": "ch07-09",
+    "title": "3.03 定义一个矩形类，通过其长、宽两个属性计算矩形面积【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-09.md",
+    "language": "cpp",
+    "tags": [
+      "封装",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 9
+  },
+  {
+    "id": "ch07-10",
+    "title": "3.04 定义一个Circle类，实现计算圆的周长和面积【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-10.md",
+    "language": "cpp",
+    "tags": [
+      "类与对象",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 10
+  },
+  {
+    "id": "ch07-11",
+    "title": "3.05 定义一个树（Tree）类，计算并显示树龄【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-11.md",
+    "language": "cpp",
+    "tags": [
+      "对象状态",
+      "成员函数"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 11
+  },
+  {
+    "id": "ch07-12",
+    "title": "3.06 建立圆柱体的类，并求解圆柱体体积【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-12.md",
+    "language": "cpp",
+    "tags": [
+      "构造函数",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 12
+  },
+  {
+    "id": "ch07-13",
+    "title": "3.09 This指针及其用法【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-13.md",
+    "language": "cpp",
+    "tags": [
+      "this指针",
+      "默认参数",
+      "封装"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 13
+  },
+  {
+    "id": "ch07-14",
+    "title": "3.10 静态成员的用法【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-14.md",
+    "language": "cpp",
+    "tags": [
+      "静态成员",
+      "分类汇总"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 14
+  },
+  {
+    "id": "ch07-15",
+    "title": "3.11 游泳池改造预算【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-15.md",
+    "language": "cpp",
+    "tags": [
+      "几何公式",
+      "类与对象"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 15
+  },
+  {
+    "id": "ch07-16",
+    "title": "3.12 类的组合的应用【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-16.md",
+    "language": "cpp",
+    "tags": [
+      "类的组合",
+      "拷贝构造",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 16
+  },
+  {
+    "id": "ch07-17",
+    "title": "3.15 定义一个复数类，实现复数的加减乘除【★★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-17.md",
+    "language": "cpp",
+    "tags": [
+      "复数运算",
+      "对象返回值",
+      "封装"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 17
+  },
+  {
+    "id": "ch07-18",
+    "title": "4.01 派生类的定义及应用【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-18.md",
+    "language": "cpp",
+    "tags": [
+      "单继承",
+      "构造顺序"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 18
+  },
+  {
+    "id": "ch07-19",
+    "title": "4.02 利用派生类实现求图形面积【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-19.md",
+    "language": "cpp",
+    "tags": [
+      "继承",
+      "虚函数",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 19
+  },
+  {
+    "id": "ch07-20",
+    "title": "4.03 派生类的构造函数与析构函数【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-20.md",
+    "language": "cpp",
+    "tags": [
+      "构造析构",
+      "单继承"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 20
+  },
+  {
+    "id": "ch07-21",
+    "title": "4.04 单继承的应用【★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-21.md",
+    "language": "cpp",
+    "tags": [
+      "单继承",
+      "代码复用"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 21
+  },
+  {
+    "id": "ch07-22",
+    "title": "4.05 运用C++的继承性求解问题【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-22.md",
+    "language": "cpp",
+    "tags": [
+      "单继承",
+      "成员初始化"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 22
+  },
+  {
+    "id": "ch07-23",
+    "title": "4.07 多继承的应用【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-23.md",
+    "language": "cpp",
+    "tags": [
+      "多继承",
+      "作用域运算符"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 23
+  },
+  {
+    "id": "ch07-24",
+    "title": "5.09 动态多态性的应用【★★】",
+    "chapter": "第7章 面向对象",
+    "page": "problems/ch07-24.md",
+    "language": "cpp",
+    "tags": [
+      "动态多态",
+      "虚函数",
+      "几何公式"
+    ],
+    "source": "【测验】第7章 面向对象.html",
+    "source_number": 24
+  },
+  {
+    "id": "quiz2-01",
+    "title": "随堂2-1 平均分树苗",
+    "chapter": "随堂测验2",
+    "page": "problems/quiz2-01.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "商和余数"
+    ],
+    "source": "随堂测验2.html",
+    "source_number": 1
+  },
+  {
+    "id": "quiz2-02",
+    "title": "2009 白雪公主和小矮人",
+    "chapter": "随堂测验2",
+    "page": "problems/quiz2-02.md",
+    "language": "c",
+    "tags": [
+      "整数运算",
+      "查表",
+      "多组输入"
+    ],
+    "source": "随堂测验2.html",
+    "source_number": 2
+  },
+  {
+    "id": "quiz2-03",
+    "title": "3001 青岛大虾",
+    "chapter": "随堂测验2",
+    "page": "problems/quiz2-03.md",
+    "language": "c",
+    "tags": [
+      "浮点运算",
+      "取整",
+      "多组输入"
+    ],
+    "source": "随堂测验2.html",
+    "source_number": 3
+  },
+  {
+    "id": "quiz2-04",
+    "title": "3002 具有abcd=(ab+cd)^2性质的四位数",
+    "chapter": "随堂测验2",
+    "page": "problems/quiz2-04.md",
+    "language": "c",
+    "tags": [
+      "枚举",
+      "整数拆位"
+    ],
+    "source": "随堂测验2.html",
+    "source_number": 4
+  },
+  {
+    "id": "quiz2-05",
+    "title": "4003 算法普及课程",
+    "chapter": "随堂测验2",
+    "page": "problems/quiz2-05.md",
+    "language": "c",
+    "tags": [
+      "差分",
+      "前缀和",
+      "区间重叠"
+    ],
+    "source": "随堂测验2.html",
+    "source_number": 5
+  },
+  {
+    "id": "quiz3-01",
+    "title": "2002 精挑细选的钢管",
+    "chapter": "随堂测验3",
+    "page": "problems/quiz3-01.md",
+    "language": "c",
+    "tags": [
+      "多条件比较",
+      "最值"
+    ],
+    "source": "随堂测验3.html",
+    "source_number": 1
+  },
+  {
+    "id": "quiz3-02",
+    "title": "3022 优良学风班",
+    "chapter": "随堂测验3",
+    "page": "problems/quiz3-02.md",
+    "language": "c",
+    "tags": [
+      "频率统计",
+      "比例判断"
+    ],
+    "source": "随堂测验3.html",
+    "source_number": 2
+  },
+  {
+    "id": "quiz3-03",
+    "title": "3030 66666",
+    "chapter": "随堂测验3",
+    "page": "problems/quiz3-03.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符统计",
+      "多组输入"
+    ],
+    "source": "随堂测验3.html",
+    "source_number": 3
+  },
+  {
+    "id": "quiz3-04",
+    "title": "3032 谁领读早自习",
+    "chapter": "随堂测验3",
+    "page": "problems/quiz3-04.md",
+    "language": "c",
+    "tags": [
+      "数论",
+      "质因数分解",
+      "哨兵输入"
+    ],
+    "source": "随堂测验3.html",
+    "source_number": 4
+  },
+  {
+    "id": "quiz3-05",
+    "title": "4002 最佳校友",
+    "chapter": "随堂测验3",
+    "page": "problems/quiz3-05.md",
+    "language": "c",
+    "tags": [
+      "频率统计",
+      "最值"
+    ],
+    "source": "随堂测验3.html",
+    "source_number": 5
+  },
+  {
+    "id": "quiz4-01",
+    "title": "3019 读了几页书",
+    "chapter": "随堂测验4",
+    "page": "problems/quiz4-01.md",
+    "language": "c",
+    "tags": [
+      "循环",
+      "累加",
+      "等差数列"
+    ],
+    "source": "随堂测验4.html",
+    "source_number": 1
+  },
+  {
+    "id": "quiz4-02",
+    "title": "3035 切饼(循环)",
+    "chapter": "随堂测验4",
+    "page": "problems/quiz4-02.md",
+    "language": "c",
+    "tags": [
+      "循环",
+      "累加",
+      "递推"
+    ],
+    "source": "随堂测验4.html",
+    "source_number": 2
+  },
+  {
+    "id": "quiz4-03",
+    "title": "4902 图像相似度",
+    "chapter": "随堂测验4",
+    "page": "problems/quiz4-03.md",
+    "language": "c",
+    "tags": [
+      "二维数组",
+      "频率统计",
+      "比例计算"
+    ],
+    "source": "随堂测验4.html",
+    "source_number": 3
+  },
+  {
+    "id": "quiz4-04",
+    "title": "6002 谁是猪",
+    "chapter": "随堂测验4",
+    "page": "problems/quiz4-04.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "整行输入",
+      "查找"
+    ],
+    "source": "随堂测验4.html",
+    "source_number": 4
+  },
+  {
+    "id": "quiz4-05",
+    "title": "6006 神奇的魔镜",
+    "chapter": "随堂测验4",
+    "page": "problems/quiz4-05.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "回文",
+      "递推"
+    ],
+    "source": "随堂测验4.html",
+    "source_number": 5
+  },
+  {
+    "id": "quiz5-01",
+    "title": "20102 胡恼的大胃王比赛",
+    "chapter": "随堂测验5",
+    "page": "problems/quiz5-01.md",
+    "language": "c",
+    "tags": [
+      "时间换算",
+      "比例计算",
+      "条件判断"
+    ],
+    "source": "随堂测验5.html",
+    "source_number": 1
+  },
+  {
+    "id": "quiz5-02",
+    "title": "20105 胡恼分苹果",
+    "chapter": "随堂测验5",
+    "page": "problems/quiz5-02.md",
+    "language": "c",
+    "tags": [
+      "函数",
+      "指针",
+      "交换",
+      "比例计算"
+    ],
+    "source": "随堂测验5.html",
+    "source_number": 2
+  },
+  {
+    "id": "quiz5-03",
+    "title": "20103 胡恼的黑猪标签",
+    "chapter": "随堂测验5",
+    "page": "problems/quiz5-03.md",
+    "language": "c",
+    "tags": [
+      "条件判断",
+      "整数拆位",
+      "格式化输出"
+    ],
+    "source": "随堂测验5.html",
+    "source_number": 3
+  },
+  {
+    "id": "quiz5-04",
+    "title": "20104 胡恼的斐波那契数",
+    "chapter": "随堂测验5",
+    "page": "problems/quiz5-04.md",
+    "language": "c",
+    "tags": [
+      "循环",
+      "递推",
+      "查表"
+    ],
+    "source": "随堂测验5.html",
+    "source_number": 4
+  },
+  {
+    "id": "quiz5-05",
+    "title": "20106 胡恼的差旅统计",
+    "chapter": "随堂测验5",
+    "page": "problems/quiz5-05.md",
+    "language": "c",
+    "tags": [
+      "频率统计",
+      "最值",
+      "格式化输出"
+    ],
+    "source": "随堂测验5.html",
+    "source_number": 5
+  },
+  {
+    "id": "quiz5-06",
+    "title": "20108 胡恼的邮箱密码",
+    "chapter": "随堂测验5",
+    "page": "problems/quiz5-06.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "字符转换",
+      "分类统计"
+    ],
+    "source": "随堂测验5.html",
+    "source_number": 6
+  },
+  {
+    "id": "quiz6-01",
+    "title": "20201 夏边的菜园保卫战",
+    "chapter": "随堂测验6",
+    "page": "problems/quiz6-01.md",
+    "language": "c",
+    "tags": [
+      "时间换算",
+      "取模",
+      "格式化输出"
+    ],
+    "source": "随堂测验6.html",
+    "source_number": 1
+  },
+  {
+    "id": "quiz6-02",
+    "title": "20203 夏边当艺术节评委",
+    "chapter": "随堂测验6",
+    "page": "problems/quiz6-02.md",
+    "language": "c",
+    "tags": [
+      "条件判断",
+      "平均值"
+    ],
+    "source": "随堂测验6.html",
+    "source_number": 2
+  },
+  {
+    "id": "quiz6-03",
+    "title": "20204 夏边的奇偶数之恋",
+    "chapter": "随堂测验6",
+    "page": "problems/quiz6-03.md",
+    "language": "c",
+    "tags": [
+      "整数拆位",
+      "循环",
+      "字符统计"
+    ],
+    "source": "随堂测验6.html",
+    "source_number": 3
+  },
+  {
+    "id": "quiz6-04",
+    "title": "20205 夏边整理成绩单",
+    "chapter": "随堂测验6",
+    "page": "problems/quiz6-04.md",
+    "language": "c",
+    "tags": [
+      "函数",
+      "指针",
+      "排序",
+      "平均值"
+    ],
+    "source": "随堂测验6.html",
+    "source_number": 4
+  },
+  {
+    "id": "quiz6-05",
+    "title": "20206 夏边是逃课小王子",
+    "chapter": "随堂测验6",
+    "page": "problems/quiz6-05.md",
+    "language": "c",
+    "tags": [
+      "频率统计",
+      "集合",
+      "补集"
+    ],
+    "source": "随堂测验6.html",
+    "source_number": 5
+  },
+  {
+    "id": "quiz6-06",
+    "title": "20208 夏边看奥运会比赛",
+    "chapter": "随堂测验6",
+    "page": "problems/quiz6-06.md",
+    "language": "c",
+    "tags": [
+      "字符串",
+      "查表",
+      "累加",
+      "最值"
+    ],
+    "source": "随堂测验6.html",
+    "source_number": 6
+  }
+]

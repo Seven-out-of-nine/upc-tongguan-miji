@@ -1,0 +1,4113 @@
+{
+  "ch02-01": {
+    "language": "c",
+    "source": "solutions/ch02-01.c",
+    "cases": [
+      {
+        "input": "",
+        "output": "Hello world",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "Hello world\n",
+        "reason": "检查固定输出"
+      }
+    ]
+  },
+  "ch02-02": {
+    "language": "c",
+    "source": "solutions/ch02-02.c",
+    "cases": [
+      {
+        "input": "没有输入",
+        "output": "* * * *\n * * *\n  * *\n   *",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "* * * *\n * * *\n  * *\n   *\n",
+        "reason": "检查四行缩进"
+      }
+    ]
+  },
+  "ch02-03": {
+    "language": "c",
+    "source": "solutions/ch02-03.c",
+    "cases": [
+      {
+        "input": "-9 10",
+        "output": "-9 10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0 -12\n",
+        "output": "0 -12\n",
+        "reason": "检查0、负数和输出顺序"
+      }
+    ]
+  },
+  "ch02-04": {
+    "language": "c",
+    "source": "solutions/ch02-04.c",
+    "cases": [
+      {
+        "input": "10 3",
+        "output": "10+3=13\n10-3=7\n10*3=30\n10/3=3\n10%3=1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-7 3\n",
+        "output": "-7+3=-4\n-7-3=-10\n-7*3=-21\n-7/3=-2\n-7%3=-1\n",
+        "reason": "检查负数的商和余数"
+      }
+    ]
+  },
+  "ch02-05": {
+    "language": "c",
+    "source": "solutions/ch02-05.c",
+    "cases": [
+      {
+        "input": "没有输入",
+        "output": "5",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "5\n",
+        "reason": "固定初始值输出"
+      }
+    ]
+  },
+  "ch02-06": {
+    "language": "c",
+    "source": "solutions/ch02-06.c",
+    "cases": [
+      {
+        "input": "无",
+        "output": "3.65",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "3.65\n",
+        "reason": "检查实数初值和两位小数"
+      }
+    ]
+  },
+  "ch02-07": {
+    "language": "c",
+    "source": "solutions/ch02-07.c",
+    "cases": [
+      {
+        "input": "3 4",
+        "output": "7",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-10 10\n",
+        "output": "0\n",
+        "reason": "正负数相消"
+      }
+    ]
+  },
+  "ch02-08": {
+    "language": "c",
+    "source": "solutions/ch02-08.c",
+    "cases": [
+      {
+        "input": "1.1 2.2",
+        "output": "3.30",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-1.25 0.50\n",
+        "output": "-0.75\n",
+        "reason": "检查负小数相加"
+      }
+    ]
+  },
+  "ch02-09": {
+    "language": "c",
+    "source": "solutions/ch02-09.c",
+    "cases": [
+      {
+        "input": "11 3",
+        "output": "11/3=3\n11%3=2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12 4\n",
+        "output": "12/4=3\n12%4=0\n",
+        "reason": "检查整除时余数为0"
+      }
+    ]
+  },
+  "ch02-10": {
+    "language": "c",
+    "source": "solutions/ch02-10.c",
+    "cases": [
+      {
+        "input": "45",
+        "output": "9",
+        "reason": "原题样例"
+      },
+      {
+        "input": "35",
+        "output": "8",
+        "reason": "原题样例"
+      },
+      {
+        "input": "90\n",
+        "output": "9\n",
+        "reason": "检查个位为0"
+      }
+    ]
+  },
+  "ch02-11": {
+    "language": "c",
+    "source": "solutions/ch02-11.c",
+    "cases": [
+      {
+        "input": "145",
+        "output": "10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "909\n",
+        "output": "18\n",
+        "reason": "检查十位为0"
+      }
+    ]
+  },
+  "ch02-12": {
+    "language": "c",
+    "source": "solutions/ch02-12.c",
+    "cases": [
+      {
+        "input": "3",
+        "output": "l=18.84\ns=28.26",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n",
+        "output": "l=6.28\ns=3.14\n",
+        "reason": "单位半径便于核对公式"
+      }
+    ]
+  },
+  "ch02-13": {
+    "language": "c",
+    "source": "solutions/ch02-13.c",
+    "cases": [
+      {
+        "input": "3 4 5",
+        "output": "6.00",
+        "reason": "原题样例"
+      },
+      {
+        "input": "6 8 10\n",
+        "output": "24.00\n",
+        "reason": "按比例放大3、4、5三角形"
+      }
+    ]
+  },
+  "ch02-14": {
+    "language": "c",
+    "source": "solutions/ch02-14.c",
+    "cases": [
+      {
+        "input": "-1",
+        "output": "x=-1,x=37777777777,x=ffffffff",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0",
+        "output": "x=0,x=0,x=0",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10\n",
+        "output": "x=10,x=12,x=a\n",
+        "reason": "检查三种进制表示"
+      }
+    ]
+  },
+  "ch02-15": {
+    "language": "c",
+    "source": "solutions/ch02-15.c",
+    "cases": [
+      {
+        "input": "2011 12 31",
+        "output": "中国式写法为：2011/12/31\n英国式写法为：31/12/2011\n美国式写法为：12/31/2011",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2024 1 2\n",
+        "output": "中国式写法为：2024/1/2\n英国式写法为：2/1/2024\n美国式写法为：1/2/2024\n",
+        "reason": "核对不同国家的排列顺序"
+      }
+    ]
+  },
+  "ch02-16": {
+    "language": "c",
+    "source": "solutions/ch02-16.c",
+    "cases": [
+      {
+        "input": "A",
+        "output": "65",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n",
+        "output": "48\n",
+        "reason": "区分字符0与整数0"
+      }
+    ]
+  },
+  "ch02-17": {
+    "language": "c",
+    "source": "solutions/ch02-17.c",
+    "cases": [
+      {
+        "input": "Hi    ",
+        "output": "Kl",
+        "reason": "原题样例"
+      },
+      {
+        "input": "AB\n",
+        "output": "DE\n",
+        "reason": "分别平移两个字符"
+      }
+    ]
+  },
+  "ch02-18": {
+    "language": "c",
+    "source": "solutions/ch02-18.c",
+    "cases": [
+      {
+        "input": "2.12 88 c 4.7",
+        "output": "c 88 2.12 4.70",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1.5 -2 Z 0\n",
+        "output": "Z -2 1.50 0.00\n",
+        "reason": "混合负整数和需补零的实数"
+      }
+    ]
+  },
+  "ch02-19": {
+    "language": "c",
+    "source": "solutions/ch02-19.c",
+    "cases": [
+      {
+        "input": "0\n",
+        "output": "-20.00\n",
+        "reason": "断电0小时的初始温度"
+      },
+      {
+        "input": "2\n",
+        "output": "-16.00\n",
+        "reason": "分母整体计算"
+      }
+    ]
+  },
+  "ch02-20": {
+    "language": "c",
+    "source": "solutions/ch02-20.c",
+    "cases": [
+      {
+        "input": "10 20",
+        "output": "rabbit=0,chicken=10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "5 14\n",
+        "output": "rabbit=2,chicken=3\n",
+        "reason": "同时存在鸡和兔"
+      }
+    ]
+  },
+  "ch02-21": {
+    "language": "c",
+    "source": "solutions/ch02-21.c",
+    "cases": [
+      {
+        "input": "1300 110 14.5 7.16",
+        "output": "11.8 641.9",
+        "reason": "原题样例"
+      },
+      {
+        "input": "100 50 10 7\n",
+        "output": "2.0 70.0\n",
+        "reason": "用整数可心算的路程和油价核对单位"
+      }
+    ]
+  },
+  "ch02-22": {
+    "language": "c",
+    "source": "solutions/ch02-22.c",
+    "cases": [
+      {
+        "input": "36 5\n",
+        "output": "10.00\n",
+        "reason": "核对速度单位换算与公式"
+      }
+    ]
+  },
+  "ch02-23": {
+    "language": "c",
+    "source": "solutions/ch02-23.c",
+    "cases": [
+      {
+        "input": "9:50 10:10 1\n",
+        "output": "40\n",
+        "reason": "检查跨小时与一次错误"
+      }
+    ]
+  },
+  "ch02-24": {
+    "language": "c",
+    "source": "solutions/ch02-24.c",
+    "cases": [
+      {
+        "input": "123456789",
+        "output": "2014 12 19",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n",
+        "output": "2011 1 1\n",
+        "reason": "起点"
+      },
+      {
+        "input": "31104000\n",
+        "output": "2012 1 1\n",
+        "reason": "完整360天后跨年"
+      }
+    ]
+  },
+  "ch02-25": {
+    "language": "c",
+    "source": "solutions/ch02-25.c",
+    "cases": [
+      {
+        "input": "3 10 25",
+        "output": "Dollars=10\nChange=50",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0 1 5\n",
+        "output": "Dollars=1\nChange=0\n",
+        "reason": "零钱恰好凑成1元"
+      }
+    ]
+  },
+  "ch02-26": {
+    "language": "c",
+    "source": "solutions/ch02-26.c",
+    "cases": [
+      {
+        "input": "1600 2040",
+        "output": "04:40",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0950 1010\n",
+        "output": "00:20\n",
+        "reason": "检查跨小时以及小时补零"
+      }
+    ]
+  },
+  "ch02-27": {
+    "language": "c",
+    "source": "solutions/ch02-27.c",
+    "cases": [
+      {
+        "input": "6 6 4",
+        "output": "4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "8 4 4\n",
+        "output": "2\n",
+        "reason": "刚好整除时不应多算"
+      },
+      {
+        "input": "7 9 4\n",
+        "output": "6\n",
+        "reason": "长宽都需要额外一块"
+      }
+    ]
+  },
+  "ch03-branch-01": {
+    "language": "c",
+    "source": "solutions/ch03-branch-01.c",
+    "cases": [
+      {
+        "input": "3 10",
+        "output": "3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "6 5",
+        "output": "5",
+        "reason": "原题样例"
+      },
+      {
+        "input": "8 10",
+        "output": "8",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0 0",
+        "output": "0",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7 7\n",
+        "output": "7\n",
+        "reason": "两条线路节点数相等"
+      }
+    ]
+  },
+  "ch03-branch-02": {
+    "language": "c",
+    "source": "solutions/ch03-branch-02.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "6\n",
+        "output": "49\n",
+        "reason": "第一处分界点"
+      },
+      {
+        "input": "15\n",
+        "output": "220\n",
+        "reason": "第二处分界点"
+      }
+    ]
+  },
+  "ch03-branch-03": {
+    "language": "c",
+    "source": "solutions/ch03-branch-03.c",
+    "cases": [
+      {
+        "input": "1 1 2",
+        "output": "C",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4 9 9\n",
+        "output": "A\n",
+        "reason": "不同值在第一个位置"
+      },
+      {
+        "input": "3 8 3\n",
+        "output": "B\n",
+        "reason": "不同值在中间位置"
+      }
+    ]
+  },
+  "ch03-branch-04": {
+    "language": "c",
+    "source": "solutions/ch03-branch-04.c",
+    "cases": [
+      {
+        "input": "1990 1 1 2016 10 15",
+        "output": "26",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2020 6 10 2023 6 9\n",
+        "output": "2\n",
+        "reason": "周年前一天"
+      },
+      {
+        "input": "2020 6 10 2023 6 10\n",
+        "output": "3\n",
+        "reason": "恰好周年"
+      }
+    ]
+  },
+  "ch03-branch-05": {
+    "language": "c",
+    "source": "solutions/ch03-branch-05.c",
+    "cases": [
+      {
+        "input": "0.2 0.3 0.8 25",
+        "output": "17.70",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 1 1 10\n",
+        "output": "7.70\n",
+        "reason": "尺寸最大值与10千克分界"
+      },
+      {
+        "input": "1.01 1 1 5\n",
+        "output": "error\n",
+        "reason": "任一尺寸超限"
+      }
+    ]
+  },
+  "ch03-branch-06": {
+    "language": "c",
+    "source": "solutions/ch03-branch-06.c",
+    "cases": [
+      {
+        "input": "10 40 7",
+        "output": "9",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10 2 4\n",
+        "output": "8\n",
+        "reason": "恰好吃完两个"
+      },
+      {
+        "input": "2 1 100\n",
+        "output": "0\n",
+        "reason": "苹果吃光后不能为负"
+      }
+    ]
+  },
+  "ch03-branch-07": {
+    "language": "c",
+    "source": "solutions/ch03-branch-07.c",
+    "cases": [
+      {
+        "input": "12 0",
+        "output": "At 12:00 the angle is 0.0 degrees.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12 30\n",
+        "output": "At 12:30 the angle is 165.0 degrees.\n",
+        "reason": "检查12点归零和时针随分钟移动"
+      }
+    ]
+  },
+  "ch03-branch-08": {
+    "language": "c",
+    "source": "solutions/ch03-branch-08.c",
+    "cases": [
+      {
+        "input": "23",
+        "output": "2\n32",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-100",
+        "output": "Invalid input",
+        "reason": "原题样例"
+      },
+      {
+        "input": "54321\n",
+        "output": "5\n12345\n",
+        "reason": "检查大于10000但仍合法的五位数"
+      },
+      {
+        "input": "100\n",
+        "output": "3\n001\n",
+        "reason": "检查逆序前导0"
+      }
+    ]
+  },
+  "ch03-branch-09": {
+    "language": "c",
+    "source": "solutions/ch03-branch-09.c",
+    "cases": [
+      {
+        "input": "2000",
+        "output": "yes",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1900\n",
+        "output": "no\n",
+        "reason": "整百年但非400倍数"
+      },
+      {
+        "input": "2024\n",
+        "output": "yes\n",
+        "reason": "普通闰年"
+      }
+    ]
+  },
+  "ch03-branch-10": {
+    "language": "c",
+    "source": "solutions/ch03-branch-10.c",
+    "cases": [
+      {
+        "input": "1234",
+        "output": "yes",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1000\n",
+        "output": "no\n",
+        "reason": "原数偶但数字和奇"
+      },
+      {
+        "input": "-1234\n",
+        "output": "Invalid data\n",
+        "reason": "拒绝负数"
+      }
+    ]
+  },
+  "ch03-branch-11": {
+    "language": "c",
+    "source": "solutions/ch03-branch-11.c",
+    "cases": [
+      {
+        "input": "2 2 2",
+        "output": "equilateral triangle",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 2 3\n",
+        "output": "non-triangle\n",
+        "reason": "退化三角形"
+      },
+      {
+        "input": "2 2 3\n",
+        "output": "isoceles triangle\n",
+        "reason": "合法等腰三角形"
+      }
+    ]
+  },
+  "ch03-branch-12": {
+    "language": "c",
+    "source": "solutions/ch03-branch-12.c",
+    "cases": [
+      {
+        "input": "2003 1",
+        "output": "31",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2024 2\n",
+        "output": "29\n",
+        "reason": "闰年二月"
+      },
+      {
+        "input": "1900 2\n",
+        "output": "28\n",
+        "reason": "整百年二月"
+      }
+    ]
+  },
+  "ch03-branch-13": {
+    "language": "c",
+    "source": "solutions/ch03-branch-13.c",
+    "cases": [
+      {
+        "input": "1 1",
+        "output": "900",
+        "reason": "原题样例"
+      },
+      {
+        "input": "50 50\n",
+        "output": "40000\n",
+        "reason": "恰好达到50套"
+      },
+      {
+        "input": "9 11\n",
+        "output": "9000\n",
+        "reason": "接收系统较多"
+      }
+    ]
+  },
+  "ch03-branch-14": {
+    "language": "c",
+    "source": "solutions/ch03-branch-14.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "Monday",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7\n",
+        "output": "Sunday\n",
+        "reason": "星期日"
+      },
+      {
+        "input": "0\n",
+        "output": "Error\n",
+        "reason": "不在1到7中"
+      }
+    ]
+  },
+  "ch03-branch-15": {
+    "language": "c",
+    "source": "solutions/ch03-branch-15.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7\n",
+        "output": "5\n",
+        "reason": "完整一周"
+      },
+      {
+        "input": "13\n",
+        "output": "10\n",
+        "reason": "剩余6天含一个周末"
+      }
+    ]
+  },
+  "ch03-branch-16": {
+    "language": "c",
+    "source": "solutions/ch03-branch-16.c",
+    "cases": [
+      {
+        "input": "1,1,-2",
+        "output": "-2.000,1.000",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-1,1,2\n",
+        "output": "-1.000,2.000\n",
+        "reason": "a为负仍要排序"
+      },
+      {
+        "input": "1,0,0\n",
+        "output": "0.000\n",
+        "reason": "单根0不显示负零"
+      },
+      {
+        "input": "0.0001,0.001,0.002\n",
+        "output": "-7.236,-2.764\n",
+        "reason": "较小但非零的正判别式"
+      },
+      {
+        "input": "0.000001,2,999999.999999\n",
+        "output": "-1000001.000,-999999.000\n",
+        "reason": "很小的正判别式仍产生两个不同实根"
+      },
+      {
+        "input": "1,2,1.0000000000001\n",
+        "output": "No real roots\n",
+        "reason": "很小的负判别式仍表示无实根"
+      },
+      {
+        "input": "0.0001,0.01,0.25\n",
+        "output": "-50.000\n",
+        "reason": "精确重根的十进制输入也可能产生微小浮点残差"
+      }
+    ]
+  },
+  "ch03-branch-17": {
+    "language": "c",
+    "source": "solutions/ch03-branch-17.c",
+    "cases": [
+      {
+        "input": "1,2",
+        "output": "1,2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7,-2\n",
+        "output": "-2,7\n",
+        "reason": "负数与正数交换"
+      }
+    ]
+  },
+  "ch03-branch-18": {
+    "language": "c",
+    "source": "solutions/ch03-branch-18.c",
+    "cases": [
+      {
+        "input": "3,1,2\n",
+        "output": "1.0,2.0,3.0\n",
+        "reason": "覆盖三次比较交换"
+      }
+    ]
+  },
+  "ch03-branch-19": {
+    "language": "c",
+    "source": "solutions/ch03-branch-19.c",
+    "cases": [
+      {
+        "input": "1 + 1",
+        "output": "1+1=2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7 / 2\n",
+        "output": "7/2=3.500\n",
+        "reason": "检查除法没有被整数截断"
+      }
+    ]
+  },
+  "ch03-branch-20": {
+    "language": "c",
+    "source": "solutions/ch03-branch-20.c",
+    "cases": [
+      {
+        "input": "60",
+        "output": "C",
+        "reason": "原题样例"
+      },
+      {
+        "input": "100\n",
+        "output": "A\n",
+        "reason": "最高合法分数"
+      },
+      {
+        "input": "80\n",
+        "output": "B\n",
+        "reason": "80分边界"
+      },
+      {
+        "input": "-1\n",
+        "output": "error\n",
+        "reason": "非法负分"
+      }
+    ]
+  },
+  "ch03-branch-21": {
+    "language": "c",
+    "source": "solutions/ch03-branch-21.c",
+    "cases": [
+      {
+        "input": "a",
+        "output": "lowercase",
+        "reason": "原题样例"
+      },
+      {
+        "input": " \n",
+        "output": "space\n",
+        "reason": "空格不能被输入函数跳过"
+      },
+      {
+        "input": "0\n",
+        "output": "figure\n",
+        "reason": "数字字符边界"
+      }
+    ]
+  },
+  "ch03-branch-22": {
+    "language": "c",
+    "source": "solutions/ch03-branch-22.c",
+    "cases": [
+      {
+        "input": "70 1.8",
+        "output": "zheng",
+        "reason": "原题样例"
+      },
+      {
+        "input": "25 1\n",
+        "output": "zheng\n",
+        "reason": "25归正常区间"
+      },
+      {
+        "input": "27 1\n",
+        "output": "chao\n",
+        "reason": "27归超重区间"
+      }
+    ]
+  },
+  "ch03-branch-23": {
+    "language": "c",
+    "source": "solutions/ch03-branch-23.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "NO",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7\n",
+        "output": "YES\n",
+        "reason": "星期日可赴约，不能用奇偶代替判断"
+      }
+    ]
+  },
+  "ch03-branch-24": {
+    "language": "c",
+    "source": "solutions/ch03-branch-24.c",
+    "cases": [
+      {
+        "input": "103",
+        "output": "Fishing in day 103",
+        "reason": "原题样例"
+      },
+      {
+        "input": "5\n",
+        "output": "Drying in day 5\n",
+        "reason": "周期末尾"
+      },
+      {
+        "input": "6\n",
+        "output": "Fishing in day 6\n",
+        "reason": "新周期开始"
+      }
+    ]
+  },
+  "ch03-branch-25": {
+    "language": "c",
+    "source": "solutions/ch03-branch-25.c",
+    "cases": [
+      {
+        "input": "5 10",
+        "output": "max=10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-5 -9\n",
+        "output": "max=-5\n",
+        "reason": "两个负数的最大值"
+      }
+    ]
+  },
+  "ch03-branch-26": {
+    "language": "c",
+    "source": "solutions/ch03-branch-26.c",
+    "cases": [
+      {
+        "input": "30 30",
+        "output": "2700",
+        "reason": "原题样例"
+      },
+      {
+        "input": "50 50\n",
+        "output": "4000\n",
+        "reason": "恰好达到套装优惠门槛"
+      },
+      {
+        "input": "60 70\n",
+        "output": "5250\n",
+        "reason": "剩余的是裤子"
+      }
+    ]
+  },
+  "ch03-branch-27": {
+    "language": "c",
+    "source": "solutions/ch03-branch-27.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "-11",
+        "reason": "原题样例"
+      },
+      {
+        "input": "6\n",
+        "output": "17\n",
+        "reason": "第一处分界点"
+      },
+      {
+        "input": "15\n",
+        "output": "84\n",
+        "reason": "第二处分界点"
+      }
+    ]
+  },
+  "ch03-branch-28": {
+    "language": "c",
+    "source": "solutions/ch03-branch-28.c",
+    "cases": [
+      {
+        "input": "-3.5",
+        "output": "3.500000",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n",
+        "output": "0.000000\n",
+        "reason": "零的绝对值"
+      },
+      {
+        "input": "-0.25\n",
+        "output": "0.250000\n",
+        "reason": "负小数"
+      }
+    ]
+  },
+  "ch03-branch-29": {
+    "language": "c",
+    "source": "solutions/ch03-branch-29.c",
+    "cases": [
+      {
+        "input": "3",
+        "output": "3是奇数",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-3\n",
+        "output": "-3是奇数\n",
+        "reason": "检查负奇数"
+      },
+      {
+        "input": "0\n",
+        "output": "0是偶数\n",
+        "reason": "检查0属于偶数"
+      }
+    ]
+  },
+  "ch03-branch-30": {
+    "language": "c",
+    "source": "solutions/ch03-branch-30.c",
+    "cases": [
+      {
+        "input": "1 100",
+        "output": "The Centigrade is 37.78",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 0\n",
+        "output": "The Fahrenheit is 32.00\n",
+        "reason": "摄氏冰点转华氏"
+      },
+      {
+        "input": "1 32\n",
+        "output": "The Centigrade is 0.00\n",
+        "reason": "华氏冰点转摄氏"
+      }
+    ]
+  },
+  "ch03-branch-31": {
+    "language": "c",
+    "source": "solutions/ch03-branch-31.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10\n",
+        "output": "24\n",
+        "reason": "第二档末端"
+      },
+      {
+        "input": "11\n",
+        "output": "27\n",
+        "reason": "第三档起点"
+      }
+    ]
+  },
+  "ch03-branch-32": {
+    "language": "c",
+    "source": "solutions/ch03-branch-32.c",
+    "cases": [
+      {
+        "input": "A",
+        "output": "capital letters",
+        "reason": "原题样例"
+      },
+      {
+        "input": "?\n",
+        "output": "others\n",
+        "reason": "非字母数字的符号"
+      },
+      {
+        "input": " \n",
+        "output": "others\n",
+        "reason": "按明确输出规则处理空格"
+      }
+    ]
+  },
+  "ch03-branch-33": {
+    "language": "c",
+    "source": "solutions/ch03-branch-33.c",
+    "cases": [
+      {
+        "input": "2 2 2",
+        "output": "equilateral triangle.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 2 3\n",
+        "output": "non-triangle.\n",
+        "reason": "退化三角形，带句点"
+      },
+      {
+        "input": "2 2 3\n",
+        "output": "isoceles triangle.\n",
+        "reason": "等腰结果，带句点"
+      }
+    ]
+  },
+  "ch03-function-01": {
+    "language": "c",
+    "source": "solutions/ch03-function-01.c",
+    "cases": [
+      {
+        "input": "10 20",
+        "output": "MAX=20",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-8 -3\n",
+        "output": "MAX=-3\n",
+        "reason": "两个数都为负数，不能把最大值初始设成0。"
+      }
+    ]
+  },
+  "ch03-function-02": {
+    "language": "c",
+    "source": "solutions/ch03-function-02.c",
+    "cases": [
+      {
+        "input": "45 12",
+        "output": "newnum=5241",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10 20\n",
+        "output": "newnum=12\n",
+        "reason": "检验两个个位为0时整数不会保留前导零。"
+      }
+    ]
+  },
+  "ch03-function-03": {
+    "language": "c",
+    "source": "solutions/ch03-function-03.c",
+    "cases": [
+      {
+        "input": "13",
+        "output": "Prime",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n",
+        "output": "Non Prime\n",
+        "reason": "1是素数判定的常见边界。"
+      }
+    ]
+  },
+  "ch03-function-04": {
+    "language": "c",
+    "source": "solutions/ch03-function-04.c",
+    "cases": [
+      {
+        "input": "3",
+        "output": "1!=1\n2!=2\n3!=6",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n",
+        "output": "Input data error!\n",
+        "reason": "输入不为正数时不调用阶乘函数。"
+      }
+    ]
+  },
+  "ch03-function-05": {
+    "language": "c",
+    "source": "solutions/ch03-function-05.c",
+    "cases": [
+      {
+        "input": "0.3 10",
+        "output": "1.349859",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 3\n",
+        "output": "6.333333\n",
+        "reason": "检查幂、阶乘和末项是否都计入。"
+      }
+    ]
+  },
+  "ch03-function-06": {
+    "language": "c",
+    "source": "solutions/ch03-function-06.c",
+    "cases": [
+      {
+        "input": "1234.567",
+        "output": "1234.570000",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12.344\n",
+        "output": "12.340000\n",
+        "reason": "第三位为4时应舍去。"
+      },
+      {
+        "input": "1.005\n",
+        "output": "1.010000\n",
+        "reason": "十进制第三位恰为5，补偿表示误差后应进位。"
+      },
+      {
+        "input": "1.0049\n",
+        "output": "1.000000\n",
+        "reason": "真实低于进位边界，不能因补偿而误进位。"
+      },
+      {
+        "input": "1.0051\n",
+        "output": "1.010000\n",
+        "reason": "真实高于进位边界，仍应进位。"
+      }
+    ]
+  },
+  "ch03-function-07": {
+    "language": "c",
+    "source": "solutions/ch03-function-07.c",
+    "cases": [
+      {
+        "input": "27638496",
+        "output": "The result is: 26846",
+        "reason": "原题样例"
+      },
+      {
+        "input": "102030\n",
+        "output": "The result is: 200\n",
+        "reason": "零也是偶数，开头的0省略，其余0应保留。"
+      }
+    ]
+  },
+  "ch03-function-08": {
+    "language": "c",
+    "source": "solutions/ch03-function-08.c",
+    "cases": [
+      {
+        "input": "3 4 0",
+        "output": "3 is odd number!\n4=2+2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10 7 0\n",
+        "output": "10=3+7\n7 is odd number!\n",
+        "reason": "同时检查第一对素数和奇数分支。"
+      }
+    ]
+  },
+  "ch03-function-09": {
+    "language": "c",
+    "source": "solutions/ch03-function-09.c",
+    "cases": [
+      {
+        "input": "15",
+        "output": "s=2.718282",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n",
+        "output": "s=2.666667\n",
+        "reason": "确认包含常数项和第三阶乘项。"
+      }
+    ]
+  },
+  "ch03-function-10": {
+    "language": "c",
+    "source": "solutions/ch03-function-10.c",
+    "cases": [
+      {
+        "input": "1 100",
+        "output": "5050",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 5\n",
+        "output": "14\n",
+        "reason": "两个端点都应计入。"
+      },
+      {
+        "input": "-100000 100000\n",
+        "output": "0\n",
+        "reason": "最终正负抵消为0，但递归子区间和超出int，必须用long long保存中间和。"
+      }
+    ]
+  },
+  "ch03-function-11": {
+    "language": "c",
+    "source": "solutions/ch03-function-11.c",
+    "cases": [
+      {
+        "input": "24 48",
+        "output": "24",
+        "reason": "原题样例"
+      },
+      {
+        "input": "18 12\n",
+        "output": "6\n",
+        "reason": "两数不互为整倍数，需要多轮辗转相除。"
+      }
+    ]
+  },
+  "ch03-function-12": {
+    "language": "c",
+    "source": "solutions/ch03-function-12.c",
+    "cases": [
+      {
+        "input": "1",
+        "output": "1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "6\n",
+        "output": "2\n",
+        "reason": "同时覆盖奇数项相加与偶数项相减。"
+      },
+      {
+        "input": "92\n",
+        "output": "1836311903\n",
+        "reason": "第91项超出int，而第92项最终仍在int范围，检查中间状态类型。"
+      }
+    ]
+  },
+  "ch03-function-13": {
+    "language": "c",
+    "source": "solutions/ch03-function-13.c",
+    "cases": [
+      {
+        "input": "2\n300000\n400000",
+        "output": "23天骗取现金1488607元\n24天骗取现金7177215元",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n1\n",
+        "output": "2天骗取现金1元\n",
+        "reason": "最小每日支取额，首日相等不能算获利。"
+      }
+    ]
+  },
+  "ch04-01": {
+    "language": "c",
+    "source": "solutions/ch04-01.c",
+    "cases": [
+      {
+        "input": "14 21",
+        "output": "the greatest common divisor is 7\nthe least common multiple is 42",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12 12\n",
+        "output": "the greatest common divisor is 12\nthe least common multiple is 12\n",
+        "reason": "两个数相等"
+      }
+    ]
+  },
+  "ch05-array-01": {
+    "language": "c",
+    "source": "solutions/ch05-array-01.c",
+    "cases": [
+      {
+        "input": "10 180 151 152 193 168 255 278 303 211 217\n177 40",
+        "output": "7",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3 100 150 151\n120 30\n",
+        "output": "2\n",
+        "reason": "刚好150的苹果应计入。"
+      }
+    ]
+  },
+  "ch05-array-02": {
+    "language": "c",
+    "source": "solutions/ch05-array-02.c",
+    "cases": [
+      {
+        "input": "-1000000 9↵",
+        "output": "-999,991",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-500 500\n",
+        "output": "0\n",
+        "reason": "正负抵消时仍需输出一个0。"
+      }
+    ]
+  },
+  "ch05-array-03": {
+    "language": "c",
+    "source": "solutions/ch05-array-03.c",
+    "cases": [
+      {
+        "input": "5↵",
+        "output": "10000\n11000\n11100\n11110\n11111",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\n",
+        "output": "10\n11\n",
+        "reason": "最小合法规模，检验对角线。"
+      }
+    ]
+  },
+  "ch05-array-04": {
+    "language": "c",
+    "source": "solutions/ch05-array-04.c",
+    "cases": [
+      {
+        "input": "5↵",
+        "output": "     1\n     1     1\n     1     2     1\n     1     3     3     1\n     1     4     6     4     1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n",
+        "output": "     1\n     1     1\n     1     2     1\n",
+        "reason": "检验最小合法行数和6列宽度。"
+      }
+    ]
+  },
+  "ch05-array-05": {
+    "language": "c",
+    "source": "solutions/ch05-array-05.c",
+    "cases": [
+      {
+        "input": "5↵",
+        "output": "   1   4   6   4   1\n     1   3   3   1\n       1   2   1\n         1   1\n           1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n",
+        "output": "   1   2   1\n     1   1\n       1\n",
+        "reason": "最小规模，检查逐行增加的两个缩进空格。"
+      }
+    ]
+  },
+  "ch05-array-06": {
+    "language": "c",
+    "source": "solutions/ch05-array-06.c",
+    "cases": [
+      {
+        "input": "10\n1 2 3 4 5 6 7 8 9 11",
+        "output": "1110\n11",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\n-5 -2\n",
+        "output": "-22\n-51\n",
+        "reason": "负数指数能揭示错误的极值初值。"
+      }
+    ]
+  },
+  "ch05-array-07": {
+    "language": "c",
+    "source": "solutions/ch05-array-07.c",
+    "cases": [
+      {
+        "input": "98\n98\n99\n97\n95\n99\n90\n94\n93\n92",
+        "output": "2\n5",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0 0 0 0 0 0 0 0 0 0\n",
+        "output": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+        "reason": "所有人并列第一时应全部出线。"
+      }
+    ]
+  },
+  "ch05-array-08": {
+    "language": "c",
+    "source": "solutions/ch05-array-08.c",
+    "cases": [
+      {
+        "input": "4 100 99 98 97",
+        "output": "98.50",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n80 80 80\n",
+        "output": "80.00\n",
+        "reason": "全部同分也只去掉两个评分。"
+      }
+    ]
+  },
+  "ch05-array-09": {
+    "language": "c",
+    "source": "solutions/ch05-array-09.c",
+    "cases": [
+      {
+        "input": "6\n5 2 4 1 7 5",
+        "output": "The minimum number is 5.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n4 4 4\n",
+        "output": "The minimum number is 0.\n",
+        "reason": "已等高时不需要搬动。"
+      }
+    ]
+  },
+  "ch05-array-10": {
+    "language": "c",
+    "source": "solutions/ch05-array-10.c",
+    "cases": [
+      {
+        "input": "15\n80 73 90 75 85 82 96 73 81 101 94 106 101 79 94",
+        "output": "8",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4\n9 8 5 4\n",
+        "output": "2\n",
+        "reason": "两天收益均为-4，检验负收益及按源答案选择较晚日期。"
+      }
+    ]
+  },
+  "ch05-array-11": {
+    "language": "c",
+    "source": "solutions/ch05-array-11.c",
+    "cases": [
+      {
+        "input": "3 4\n1 2 9 3\n5 3 4 2\n0 6 9 1",
+        "output": "9 0 2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 2\n-3 -1\n-1 -5\n",
+        "output": "-1 0 1\n",
+        "reason": "全负数且最大值重复，应返回先遇到的位置。"
+      }
+    ]
+  },
+  "ch05-array-12": {
+    "language": "c",
+    "source": "solutions/ch05-array-12.c",
+    "cases": [
+      {
+        "input": "4 5\n1 3 5 7 9\n2 9 9 9 4\n6 9 9 9 8\n1 3 5 7 0",
+        "output": "61",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 3\n1 2 3\n",
+        "output": "6\n",
+        "reason": "只有一行时全部元素都属于周边，不能重复加。"
+      }
+    ]
+  },
+  "ch05-array-13": {
+    "language": "c",
+    "source": "solutions/ch05-array-13.c",
+    "cases": [
+      {
+        "input": "3 6\n80 78 90 58 65 73\n70 66 89 95 77 83\n50 66 77 88 96 80",
+        "output": " 66.67 70.00 85.33 80.33 79.33 78.67\n444\n480\n457",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 2\n80 90\n60 70\n",
+        "output": " 70.00 80.00\n170\n130\n",
+        "reason": "行与列使用不同统计方向。"
+      }
+    ]
+  },
+  "ch05-array-14": {
+    "language": "c",
+    "source": "solutions/ch05-array-14.c",
+    "cases": [
+      {
+        "input": "3 4\n1 2 13 4\n7 8 10 6\n3 5 9 7",
+        "output": "a[2][2]=9",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 2\n1 2\n3 0\n",
+        "output": "Not Found\n",
+        "reason": "每行最大都不是所在列最小，确实不存在鞍点。"
+      }
+    ]
+  },
+  "ch05-array-15": {
+    "language": "c",
+    "source": "solutions/ch05-array-15.c",
+    "cases": [
+      {
+        "input": "3\n1 1 3 \n3 2 2\n1 2 2",
+        "output": "24",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n1 1 1\n1 1 1\n1 1 1\n",
+        "output": "8\n",
+        "reason": "只铲除四个非对角线位置，检验中心去重。"
+      }
+    ]
+  },
+  "ch05-array-16": {
+    "language": "c",
+    "source": "solutions/ch05-array-16.c",
+    "cases": [
+      {
+        "input": "5 2\n2 4 7 1 5",
+        "output": "1 5 2 4 7",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3 2\n7 8 9\n",
+        "output": "7 8 9\n",
+        "reason": "全部元素作为一段平移，顺序应不变。"
+      }
+    ]
+  },
+  "ch05-array-17": {
+    "language": "c",
+    "source": "solutions/ch05-array-17.c",
+    "cases": [
+      {
+        "input": "5\n2 4 7 1 5",
+        "output": "5 1 7 4 2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n42\n",
+        "output": "42\n",
+        "reason": "单元素数组逆序后保持原样。"
+      }
+    ]
+  },
+  "ch05-array-18": {
+    "language": "c",
+    "source": "solutions/ch05-array-18.c",
+    "cases": [
+      {
+        "input": "10\n3 6 5 1 7 4 10 8 2 9",
+        "output": "9 2 8 10 4 7 1 5 6 3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n42\n",
+        "output": "42\n",
+        "reason": "单元素数组逆序后保持原样。"
+      }
+    ]
+  },
+  "ch05-array-19": {
+    "language": "c",
+    "source": "solutions/ch05-array-19.c",
+    "cases": [
+      {
+        "input": "3 5\n1 3 5 7 9\n2 4 6 8 10\n0 5 3 6 8",
+        "output": "1 2 0\n3 4 5\n5 6 3\n7 8 6\n9 10 8",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 3\n4 5 6\n",
+        "output": "4\n5\n6\n",
+        "reason": "一行矩阵转置成三行一列。"
+      }
+    ]
+  },
+  "ch05-array-20": {
+    "language": "c",
+    "source": "solutions/ch05-array-20.c",
+    "cases": [
+      {
+        "input": "2 3\n1 5 3\n3 2 4",
+        "output": "3 4\n5 2\n1 3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 3\n1 2 3\n",
+        "output": "3\n2\n1\n",
+        "reason": "一行横向图像逆时针旋转成从3到1的竖列。"
+      }
+    ]
+  },
+  "ch05-array-21": {
+    "language": "c",
+    "source": "solutions/ch05-array-21.c",
+    "cases": [
+      {
+        "input": "5 7\n3 5 7 1 9",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3 9\n1 2 3\n",
+        "output": "Not Found\n",
+        "reason": "目标不在数组时保留-1标记。"
+      }
+    ]
+  },
+  "ch05-array-22": {
+    "language": "c",
+    "source": "solutions/ch05-array-22.c",
+    "cases": [
+      {
+        "input": "7 5 4 3 2 1 2 4",
+        "output": "4 2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "5 7 7 7 1 1\n",
+        "output": "7 1\n",
+        "reason": "一个数字重复三次也只输出一次。"
+      }
+    ]
+  },
+  "ch05-array-23": {
+    "language": "c",
+    "source": "solutions/ch05-array-23.c",
+    "cases": [
+      {
+        "input": "10 3 -5 2 8 0 3 5 -15 9 100\n11 6 4 8 2 6 -5 9 0 100 8 1",
+        "output": "3 5 -15 6 4 1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3 -5 -5 2\n2 2 7\n",
+        "output": "-5 7\n",
+        "reason": "同时检查负数、共有数字和数组内部重复。"
+      }
+    ]
+  },
+  "ch05-array-24": {
+    "language": "c",
+    "source": "solutions/ch05-array-24.c",
+    "cases": [
+      {
+        "input": "6 4\n23 34 46 343 343 768\n2 23 4 343",
+        "output": "NO\nYES\nNO\nYES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4 3\n1 2 2 9\n1 9 3\n",
+        "output": "YES\nYES\nNO\n",
+        "reason": "检查首项、末项和不存在的元素。"
+      }
+    ]
+  },
+  "ch05-array-25": {
+    "language": "c",
+    "source": "solutions/ch05-array-25.c",
+    "cases": [
+      {
+        "input": "10\n153 155 159 161 163 165 167 169 170 172\n168",
+        "output": "153 155 159 161 163 165 167 168 169 170 172",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n160 170 180\n150\n",
+        "output": "150 160 170 180\n",
+        "reason": "插到最前端，需要搬移全部原元素。"
+      }
+    ]
+  },
+  "ch05-array-26": {
+    "language": "c",
+    "source": "solutions/ch05-array-26.c",
+    "cases": [
+      {
+        "input": "1593",
+        "output": "9531",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1000000000000000000\n",
+        "output": "1000000000000000000\n",
+        "reason": "题目最大值，检验64位读取和18个零全部保留。"
+      }
+    ]
+  },
+  "ch05-array-27": {
+    "language": "c",
+    "source": "solutions/ch05-array-27.c",
+    "cases": [
+      {
+        "input": "5\n8 4 7 6 5",
+        "output": "Yes",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n1 1 3\n",
+        "output": "No\n",
+        "reason": "范围长度恰好3仍有重复且缺2，不能误判。"
+      }
+    ]
+  },
+  "ch05-array-28": {
+    "language": "c",
+    "source": "solutions/ch05-array-28.c",
+    "cases": [
+      {
+        "input": "2\n3\n3 2 1\n2\n4 9",
+        "output": "1 2\n2 4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n4\n6 8 10 7\n",
+        "output": "3 8\n",
+        "reason": "最大报价出现在中间，后续较低报价不能错误覆盖次高价。"
+      }
+    ]
+  },
+  "ch05-array-29": {
+    "language": "c",
+    "source": "solutions/ch05-array-29.c",
+    "cases": [
+      {
+        "input": "7\n154 160 157 162 159 152 163",
+        "output": "152 157 160 163 162 159 154",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n150 170 160\n",
+        "output": "150 170 160\n",
+        "reason": "检验中心最高、第二高在右、第三高在左。"
+      }
+    ]
+  },
+  "ch05-array-30": {
+    "language": "c",
+    "source": "solutions/ch05-array-30.c",
+    "cases": [
+      {
+        "input": "5\n1 2\n2 2\n1 3\n3 -2\n3 3",
+        "output": "6",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n0 0\n1 0\n2 100\n",
+        "output": "100\n",
+        "reason": "偏斜数据能区分中位数与错误的平均数算法。"
+      }
+    ]
+  },
+  "ch05-array-31": {
+    "language": "c",
+    "source": "solutions/ch05-array-31.c",
+    "cases": [
+      {
+        "input": "5 3 4 7 3 5 6 8 9 10",
+        "output": "  4  1  3  7  1  4  6  8  9 10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 2 2 2 2 2 2 2 2 2\n",
+        "output": "  1  1  1  1  1  1  1  1  1  1\n",
+        "reason": "全部相等时所有名次都应为1。"
+      }
+    ]
+  },
+  "ch05-array-32": {
+    "language": "c",
+    "source": "solutions/ch05-array-32.c",
+    "cases": [
+      {
+        "input": "3\n1234 2345 3456",
+        "output": "3\n 3 4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n0 -10 200\n",
+        "output": "4\n 0\n",
+        "reason": "0本身、负整数中的数字和尾部零都应统计。"
+      }
+    ]
+  },
+  "ch05-array-33": {
+    "language": "c",
+    "source": "solutions/ch05-array-33.c",
+    "cases": [
+      {
+        "input": "5\n1 2 1 1 3",
+        "output": "1 1 2 3 1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4\n4 4 4 4\n",
+        "output": "1 2 3 4\n",
+        "reason": "同一读者每次出现都应接着计数。"
+      }
+    ]
+  },
+  "ch05-array-34": {
+    "language": "c",
+    "source": "solutions/ch05-array-34.c",
+    "cases": [
+      {
+        "input": "10",
+        "output": "4\n2 3 5 7",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n",
+        "output": "2\n2 3\n",
+        "reason": "上界3本身是素数，不能因循环写<n而漏掉。"
+      }
+    ]
+  },
+  "ch05-array-35": {
+    "language": "c",
+    "source": "solutions/ch05-array-35.c",
+    "cases": [
+      {
+        "input": "500 3\n150 300\n100 200\n470 471",
+        "output": "298",
+        "reason": "原题样例"
+      },
+      {
+        "input": "5 2\n1 3\n2 4\n",
+        "output": "2\n",
+        "reason": "区域重叠时不能重复移走同一棵树。"
+      }
+    ]
+  },
+  "ch05-array-36": {
+    "language": "c",
+    "source": "solutions/ch05-array-36.c",
+    "cases": [
+      {
+        "input": "100",
+        "output": "10\n   1   4   9  16  25  36  49  64  81 100",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4\n",
+        "output": "2\n   1   4\n",
+        "reason": "小规模逐轮翻转，可核对初始状态。"
+      }
+    ]
+  },
+  "ch05-array-37": {
+    "language": "c",
+    "source": "solutions/ch05-array-37.c",
+    "cases": [
+      {
+        "input": "5\n1 3 5 6 8\n3\n1 5\n1 6\n8 3",
+        "output": "2\n3\n3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n10 20 100\n2\n100 10\n20 20\n",
+        "output": "2\n0\n",
+        "reason": "逆序询问和相同元素的距离都要正确。"
+      }
+    ]
+  },
+  "ch05-array-38": {
+    "language": "c",
+    "source": "solutions/ch05-array-38.c",
+    "cases": [
+      {
+        "input": "2006 7",
+        "output": "2006/1/13\n2006/10/13",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2024 1\n",
+        "output": "2024/9/13\n2024/12/13\n",
+        "reason": "闰年元旦星期一，检查2月调整后的后续月份。"
+      }
+    ]
+  },
+  "ch05-array-39": {
+    "language": "c",
+    "source": "solutions/ch05-array-39.c",
+    "cases": [
+      {
+        "input": "2\n2\n5000",
+        "output": "10\nzzz",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n3\n4000\n4001\n",
+        "output": "11\n9991\nzzz\n",
+        "reason": "检查一次增加多个1，以及最高可达阈值边界。"
+      }
+    ]
+  },
+  "ch05-array-40": {
+    "language": "c",
+    "source": "solutions/ch05-array-40.c",
+    "cases": [
+      {
+        "input": "8\n60 70 80 90 30 40 10 20",
+        "output": "60 1\n70 2\n80 3\n90 4\n30 1\n40 5\n10 1\n20 2\n5",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n100 50 50\n",
+        "output": "100 1\n50 2\n50 2\n2\n",
+        "reason": "容量恰好100仍然可以放入，第一个满箱必须跳过。"
+      }
+    ]
+  },
+  "ch05-array-41": {
+    "language": "c",
+    "source": "solutions/ch05-array-41.c",
+    "cases": [
+      {
+        "input": "100\n9\n90\n20\n20\n30\n50\n60\n70\n80\n90",
+        "output": "6",
+        "reason": "原题样例"
+      },
+      {
+        "input": "100\n4\n20\n30\n70\n90\n",
+        "output": "3\n",
+        "reason": "既有必须单独的最贵物品，也有恰好可配对的物品。"
+      }
+    ]
+  },
+  "ch05-array-42": {
+    "language": "c",
+    "source": "solutions/ch05-array-42.c",
+    "cases": [
+      {
+        "input": "1301 87\n1302 79\n1303 90\n1304 68\n-1 -2\n1302",
+        "output": "90 87 79 68\n1302 79",
+        "reason": "原题样例"
+      },
+      {
+        "input": "13121 88\n13122 77\n13123 99\n13125 66\n13126 100\n13128 55\n-2 -10\n13127",
+        "output": "100 99 88 77 66 55\nnot find!",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 0\n2 90\n-1 -1\n1\n",
+        "output": "90 0\n1 0\n",
+        "reason": "零分应保留，排序后原学号与成绩仍需正确对应。"
+      }
+    ]
+  },
+  "ch05-array-43": {
+    "language": "c",
+    "source": "solutions/ch05-array-43.c",
+    "cases": [
+      {
+        "input": "3\n1 1 1\n1 1 1",
+        "output": "3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\n2000000000 2000000000\n2000000000 -2000000000\n",
+        "output": "0\n",
+        "reason": "单项乘积超过int但相互抵消，检验乘法转换和精确累加。"
+      }
+    ]
+  },
+  "ch05-array-44": {
+    "language": "c",
+    "source": "solutions/ch05-array-44.c",
+    "cases": [
+      {
+        "input": "1 2 3 4\n2 2 3 4\n3 2 3 4\n4 2 3 4\n0",
+        "output": "   0   2   3   4\n   0   0   3   4\n   0   0   0   4\n   0   0   0   0",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 1 1 1\n1 1 1 1\n1 1 1 1\n1 1 1 1\n2\n",
+        "output": "   2   1   1   1\n   2   2   1   1\n   2   2   2   1\n   2   2   2   2\n",
+        "reason": "全1矩阵能直观看出下三角位置。"
+      }
+    ]
+  },
+  "ch05-array-45": {
+    "language": "c",
+    "source": "solutions/ch05-array-45.c",
+    "cases": [
+      {
+        "input": "3\n1 2 3\n4 5 6\n7 8 9\n7 8 9\n4 5 6\n1 2 3",
+        "output": "8 10 12\n8 10 12\n8 10 12",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n-5\n8\n",
+        "output": "3\n",
+        "reason": "最小方阵，输出仅一个数和换行，不能有尾空格。"
+      }
+    ]
+  },
+  "ch05-array-46": {
+    "language": "c",
+    "source": "solutions/ch05-array-46.c",
+    "cases": [
+      {
+        "input": "12 5",
+        "output": "12 (base 3) = 5 (base 6)",
+        "reason": "原题样例"
+      },
+      {
+        "input": "123 456",
+        "output": "123 is not equal to 456 in any base 2..36",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10 A",
+        "output": "10 (base 10) = A (base 11)",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 01\n",
+        "output": "1 (base 2) = 01 (base 2)\n",
+        "reason": "只有0和1时最低合法进制为2，前导零不改变数值。"
+      }
+    ]
+  },
+  "ch05-array-47": {
+    "language": "c",
+    "source": "solutions/ch05-array-47.c",
+    "cases": [
+      {
+        "input": "2\n9\n1 3 2 4 6 3 2 3 1\n5\n1 2 3 4 5",
+        "output": "3\n0",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n1\n5\n2\n1 2\n3\n1 3 2\n",
+        "output": "0\n0\n1\n",
+        "reason": "最小两种规模无峰，三项中间最高才出现峰。"
+      }
+    ]
+  },
+  "ch05-string-01": {
+    "language": "c",
+    "source": "solutions/ch05-string-01.c",
+    "cases": [
+      {
+        "input": "HelloUPC",
+        "output": "HelloUPC",
+        "reason": "原题样例"
+      },
+      {
+        "input": "A1_z\n",
+        "output": "A1_z\n",
+        "reason": "检查字母、数字和下划线保持不变。"
+      }
+    ]
+  },
+  "ch05-string-02": {
+    "language": "c",
+    "source": "solutions/ch05-string-02.c",
+    "cases": [
+      {
+        "input": "Hello UPC",
+        "output": "Hello UPC",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a  b\n",
+        "output": "a  b\n",
+        "reason": "验证连续空格被保留。"
+      }
+    ]
+  },
+  "ch05-string-03": {
+    "language": "c",
+    "source": "solutions/ch05-string-03.c",
+    "cases": [
+      {
+        "input": "i AM A STUDENT.i AM 19.",
+        "output": "I am a student.I am 19.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aZ 19!\n",
+        "output": "Az 19!\n",
+        "reason": "同时检查双向转换和非字母。"
+      }
+    ]
+  },
+  "ch05-string-04": {
+    "language": "c",
+    "source": "solutions/ch05-string-04.c",
+    "cases": [
+      {
+        "input": "free82jeep5",
+        "output": "825",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a000b007c0\n",
+        "output": "70\n",
+        "reason": "检查跨段拼接和前导零。"
+      }
+    ]
+  },
+  "ch05-string-05": {
+    "language": "c",
+    "source": "solutions/ch05-string-05.c",
+    "cases": [
+      {
+        "input": "123*456U17960? 302tab5876",
+        "output": "123\n456\n17960\n302\n5876",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a000b0012\n",
+        "output": "0\n12\n",
+        "reason": "检查全零数字段和末尾数字段。"
+      }
+    ]
+  },
+  "ch05-string-06": {
+    "language": "c",
+    "source": "solutions/ch05-string-06.c",
+    "cases": [
+      {
+        "input": "COMETQ\nHVNGAT",
+        "output": "GO",
+        "reason": "原题样例"
+      },
+      {
+        "input": "A\nZ\n",
+        "output": "STAY\n",
+        "reason": "检查不同余数时不匹配。"
+      }
+    ]
+  },
+  "ch05-string-07": {
+    "language": "c",
+    "source": "solutions/ch05-string-07.c",
+    "cases": [
+      {
+        "input": "DELICIOUS FOOD",
+        "output": "INVALID",
+        "reason": "原题样例"
+      },
+      {
+        "input": "ZZZZ\nAa1\n",
+        "output": "INVALID\n1\n",
+        "reason": "检查超限和忽略非大写字符。"
+      }
+    ]
+  },
+  "ch05-string-08": {
+    "language": "c",
+    "source": "solutions/ch05-string-08.c",
+    "cases": [
+      {
+        "input": "Helloz",
+        "output": "Lippsd",
+        "reason": "原题样例"
+      },
+      {
+        "input": "WXYZwxyz\n",
+        "output": "ABCDabcd\n",
+        "reason": "检查大小写字母表末尾循环。"
+      }
+    ]
+  },
+  "ch05-string-09": {
+    "language": "c",
+    "source": "solutions/ch05-string-09.c",
+    "cases": [
+      {
+        "input": "5\nOnline Judge\nAssociation for Computer Machinery\nInstitute of Electrical and Electronics Engineers\nThe Lord of the Rings\nQingdao",
+        "output": "OJ\nACM\nIEEE\nLR\nQ",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\ntHE  art of CODE and fun\n",
+        "output": "ACF\n",
+        "reason": "检查忽略词大小写和多空格。"
+      }
+    ]
+  },
+  "ch05-string-10": {
+    "language": "c",
+    "source": "solutions/ch05-string-10.c",
+    "cases": [
+      {
+        "input": "THIS IS A TEST\nI",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a a a\n \n",
+        "output": "2\n",
+        "reason": "验证把空格作为目标字符。"
+      }
+    ]
+  },
+  "ch05-string-11": {
+    "language": "c",
+    "source": "solutions/ch05-string-11.c",
+    "cases": [
+      {
+        "input": "Hello No 007.",
+        "output": "0:2\n7:1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "909a2\n",
+        "output": "0:1\n2:1\n9:2\n",
+        "reason": "检查按数字顺序输出。"
+      }
+    ]
+  },
+  "ch05-string-12": {
+    "language": "c",
+    "source": "solutions/ch05-string-12.c",
+    "cases": [
+      {
+        "input": "china abc\nsum bstop stop",
+        "output": "4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "stop\n",
+        "output": "0\n",
+        "reason": "检查第一个词就是停止标志。"
+      }
+    ]
+  },
+  "ch05-string-13": {
+    "language": "c",
+    "source": "solutions/ch05-string-13.c",
+    "cases": [
+      {
+        "input": "3\n7 aaaaaaa\n4 abcd\n6 qwweee",
+        "output": "7a\n1a1b1c1d\n1q2w3e",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\n5 aabba\n",
+        "output": "2a2b1a\n",
+        "reason": "检查同字母分属不同连续段。"
+      }
+    ]
+  },
+  "ch05-string-14": {
+    "language": "c",
+    "source": "solutions/ch05-string-14.c",
+    "cases": [
+      {
+        "input": "fi8x_a",
+        "output": "YES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "_a9\n",
+        "output": "YES\n",
+        "reason": "检查下划线开头合法。"
+      }
+    ]
+  },
+  "ch05-string-15": {
+    "language": "c",
+    "source": "solutions/ch05-string-15.c",
+    "cases": [
+      {
+        "input": "10\nabcDEF\nABC\nqw\n`\nABCDEFGHIJKLMNOPQRST\n12345678901234567890\n          1aB\n1 B\na X   \nqwe123%^&ABC",
+        "output": "Medium Safe\nNot Safe\nNot Safe\nNot Safe\nNot Safe\nNot Safe\nSafe\nNot Safe\nSafe\nSafe",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\na1B!x\nabc123\na1B!xx\n",
+        "output": "Not Safe\nMedium Safe\nSafe\n",
+        "reason": "检查长度门槛与两类、四类密码。"
+      }
+    ]
+  },
+  "ch05-string-16": {
+    "language": "c",
+    "source": "solutions/ch05-string-16.c",
+    "cases": [
+      {
+        "input": "turbo c and borland c++\na",
+        "output": "turbo c nd borlnd c++",
+        "reason": "原题样例"
+      },
+      {
+        "input": "banana\na\n",
+        "output": "bnn\n",
+        "reason": "检查多处相同字符全部删除。"
+      }
+    ]
+  },
+  "ch05-string-17": {
+    "language": "cpp",
+    "source": "solutions/ch05-string-17.cpp",
+    "cases": [
+      {
+        "input": "They are students.\naeiou",
+        "output": "Thy r stdnts.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "banana\nan\n",
+        "output": "b\n",
+        "reason": "检查删除字符集合的含义。"
+      }
+    ]
+  },
+  "ch05-string-18": {
+    "language": "c",
+    "source": "solutions/ch05-string-18.c",
+    "cases": [
+      {
+        "input": "abacaeedabcd",
+        "output": "abced",
+        "reason": "原题样例"
+      },
+      {
+        "input": "ab ba\n",
+        "output": "ab \n",
+        "reason": "检查空格也作为字符去重。"
+      }
+    ]
+  },
+  "ch05-string-19": {
+    "language": "c",
+    "source": "solutions/ch05-string-19.c",
+    "cases": [
+      {
+        "input": "I love movie\n7 6",
+        "output": "I love",
+        "reason": "原题样例"
+      },
+      {
+        "input": "abcdef\n2 3\n",
+        "output": "aef\n",
+        "reason": "检查1起始位置与删除长度。"
+      }
+    ]
+  },
+  "ch05-string-20": {
+    "language": "c",
+    "source": "solutions/ch05-string-20.c",
+    "cases": [
+      {
+        "input": "2\nBeatLA123\nU12P34C 56A7C8M 9CLUB",
+        "output": "BeatLA\nUPC ACM CLUB",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\n123\na1 b2\n",
+        "output": "\na b\n",
+        "reason": "检查全数字密码和空格保留。"
+      }
+    ]
+  },
+  "ch05-string-21": {
+    "language": "c",
+    "source": "solutions/ch05-string-21.c",
+    "cases": [
+      {
+        "input": "Hello\nUPC",
+        "output": "HelloUPC",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a \n b\n",
+        "output": "a  b\n",
+        "reason": "检查连接处两个空格均保留。"
+      }
+    ]
+  },
+  "ch05-string-22": {
+    "language": "c",
+    "source": "solutions/ch05-string-22.c",
+    "cases": [
+      {
+        "input": "acd\nbr",
+        "output": "abcdr",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aaz\nab\n",
+        "output": "aaabz\n",
+        "reason": "检查相等字符全部保留。"
+      }
+    ]
+  },
+  "ch05-string-23": {
+    "language": "c",
+    "source": "solutions/ch05-string-23.c",
+    "cases": [
+      {
+        "input": "beijing\n123\nj",
+        "output": "bei123jing",
+        "reason": "原题样例"
+      },
+      {
+        "input": "banana\nX\na\n",
+        "output": "bXanana\n",
+        "reason": "检查只在第一次出现处插入。"
+      }
+    ]
+  },
+  "ch05-string-24": {
+    "language": "c",
+    "source": "solutions/ch05-string-24.c",
+    "cases": [
+      {
+        "input": "CBA\nCAB",
+        "output": "s>t",
+        "reason": "原题样例"
+      },
+      {
+        "input": "ab abc\n",
+        "output": "s<t\n",
+        "reason": "检查一个串是另一个串的前缀。"
+      }
+    ]
+  },
+  "ch05-string-25": {
+    "language": "c",
+    "source": "solutions/ch05-string-25.c",
+    "cases": [
+      {
+        "input": "8\napple\ndog\napple\norange\napple\nbird\norange\ncat",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "5\nx\nx\nx\ny\ny\n",
+        "output": "2\n",
+        "reason": "检查三胞胎也只算一种。"
+      }
+    ]
+  },
+  "ch05-string-26": {
+    "language": "c",
+    "source": "solutions/ch05-string-26.c",
+    "cases": [
+      {
+        "input": "5\napple\norange\napple\ncomputer\norange",
+        "output": "computer",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\nx\ny\nx\n",
+        "output": "y\n",
+        "reason": "检查重复串不相邻。"
+      }
+    ]
+  },
+  "ch05-string-27": {
+    "language": "cpp",
+    "source": "solutions/ch05-string-27.cpp",
+    "cases": [
+      {
+        "input": "madam",
+        "output": "YES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "abca\n",
+        "output": "NO\n",
+        "reason": "检查首尾相同但内部不对称。"
+      }
+    ]
+  },
+  "ch05-string-28": {
+    "language": "c",
+    "source": "solutions/ch05-string-28.c",
+    "cases": [
+      {
+        "input": "dare read",
+        "output": "YES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aab abb\n",
+        "output": "NO\n",
+        "reason": "检查字符种类相同但频次不同。"
+      }
+    ]
+  },
+  "ch05-string-29": {
+    "language": "cpp",
+    "source": "solutions/ch05-string-29.cpp",
+    "cases": [
+      {
+        "input": "10\nqingdao\njinan\nyantai\nweifang\nbinzhou\ndongying\nzibo\ndezhou\nheze\nweihai",
+        "output": "binzhou\ndezhou\ndongying\nheze\njinan\nqingdao\nweifang\nweihai\nyantai\nzibo",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\nzibo\nbeijing\nbeijing\n",
+        "output": "beijing\nbeijing\nzibo\n",
+        "reason": "检查重复城市仍保留。"
+      }
+    ]
+  },
+  "ch05-string-30": {
+    "language": "c",
+    "source": "solutions/ch05-string-30.c",
+    "cases": [
+      {
+        "input": "HelloWorld W",
+        "output": "6",
+        "reason": "原题样例"
+      },
+      {
+        "input": "banana a\n",
+        "output": "2\n",
+        "reason": "检查重复字符返回第一次。"
+      }
+    ]
+  },
+  "ch05-string-31": {
+    "language": "c",
+    "source": "solutions/ch05-string-31.c",
+    "cases": [
+      {
+        "input": "HelloWorld o",
+        "output": "7",
+        "reason": "原题样例"
+      },
+      {
+        "input": "banana z\n",
+        "output": "0\n",
+        "reason": "检查不存在时输出0。"
+      }
+    ]
+  },
+  "ch05-string-32": {
+    "language": "c",
+    "source": "solutions/ch05-string-32.c",
+    "cases": [
+      {
+        "input": "2\naabb\nabcdab",
+        "output": "NO\nc",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\nzzaq\naabb\n",
+        "output": "a\nNO\n",
+        "reason": "检查按原串顺序找和不存在的情况。"
+      }
+    ]
+  },
+  "ch05-string-33": {
+    "language": "c",
+    "source": "solutions/ch05-string-33.c",
+    "cases": [
+      {
+        "input": "3 2\nBob Marry Jam\nBob Jam",
+        "output": "YES\nNO\nYES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 0\nAnn Bob\n",
+        "output": "NO\nNO\n",
+        "reason": "检查没有学生到课。"
+      }
+    ]
+  },
+  "ch05-string-34": {
+    "language": "c",
+    "source": "solutions/ch05-string-34.c",
+    "cases": [
+      {
+        "input": "4\nshanghai\nbeijing\nhangzhou\nbeijing\nbeijing",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\na\nb\nc\n",
+        "output": "0\n",
+        "reason": "检查从未访问的城市。"
+      }
+    ]
+  },
+  "ch05-string-35": {
+    "language": "c",
+    "source": "solutions/ch05-string-35.c",
+    "cases": [
+      {
+        "input": "3\nGLBSHIGEmaiIPADMINI4detuhao\nwobushiGlb\nhahaha",
+        "output": "YES\nNO\nNO",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\naGLBb\nGlb\nGxLB\n",
+        "output": "YES\nNO\nNO\n",
+        "reason": "检查连续性和大小写限制。"
+      }
+    ]
+  },
+  "ch05-string-36": {
+    "language": "c",
+    "source": "solutions/ch05-string-36.c",
+    "cases": [
+      {
+        "input": "ababcabababab\nababa",
+        "output": "5",
+        "reason": "原题样例"
+      },
+      {
+        "input": "ababa\naba\n",
+        "output": "0\n",
+        "reason": "检查开头匹配位置为0。"
+      }
+    ]
+  },
+  "ch05-string-37": {
+    "language": "c",
+    "source": "solutions/ch05-string-37.c",
+    "cases": [
+      {
+        "input": "18446744073709551616\n4294967296",
+        "output": "18446744078004518912",
+        "reason": "原题样例"
+      },
+      {
+        "input": "999\n1\n",
+        "output": "1000\n",
+        "reason": "检查连续进位和位数不同。"
+      }
+    ]
+  },
+  "ch05-string-38": {
+    "language": "c",
+    "source": "solutions/ch05-string-38.c",
+    "cases": [
+      {
+        "input": "123456789\n123456789",
+        "output": "15241578750190521",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n987654321\n",
+        "output": "0\n",
+        "reason": "检查乘零结果和去除高位零。"
+      }
+    ]
+  },
+  "ch05-string-39": {
+    "language": "c",
+    "source": "solutions/ch05-string-39.c",
+    "cases": [
+      {
+        "input": "350622197904130331",
+        "output": "Invalid",
+        "reason": "原题样例"
+      },
+      {
+        "input": "11010519491231002X",
+        "output": "Valid",
+        "reason": "原题样例"
+      },
+      {
+        "input": "110105194912310020\n",
+        "output": "Invalid\n",
+        "reason": "检查合法前17位但末位错误。"
+      }
+    ]
+  },
+  "ch05-string-40": {
+    "language": "c",
+    "source": "solutions/ch05-string-40.c",
+    "cases": [
+      {
+        "input": "124",
+        "output": "12421",
+        "reason": "原题样例"
+      },
+      {
+        "input": "ab\nabc\n",
+        "output": "aba\nabcba\n",
+        "reason": "检查最短长度和多组输入。"
+      }
+    ]
+  },
+  "ch05-string-41": {
+    "language": "c",
+    "source": "solutions/ch05-string-41.c",
+    "cases": [
+      {
+        "input": "5\nGLBSHIGEmaiIPADMINI4detuhao\nwobushiGlb\nhahaha\nGwobuLshihaBhah\nLBhahahG",
+        "output": "YES\nYES\nNO\nYES\nYES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\nbxLg\nGGll\n",
+        "output": "YES\nNO\n",
+        "reason": "检查任意次序通过但缺B失败。"
+      }
+    ]
+  },
+  "ch05-string-42": {
+    "language": "c",
+    "source": "solutions/ch05-string-42.c",
+    "cases": [
+      {
+        "input": "0-670-82162-4",
+        "output": "Right",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0-670-82162-0\n",
+        "output": "0-670-82162-4\n",
+        "reason": "检查修正错误末位并保留横线。"
+      }
+    ]
+  },
+  "ch05-string-43": {
+    "language": "c",
+    "source": "solutions/ch05-string-43.c",
+    "cases": [
+      {
+        "input": "THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG",
+        "output": "        *                   *                      \n        *                   *                      \n      * *     *             *     *   * *          \n* * * * * * * * * * * * * * * * * *   * * * * * * *\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "reason": "原题样例"
+      },
+      {
+        "input": "Z\n",
+        "output": "                                                  *\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n",
+        "reason": "检查末列位置与完整坐标轴。"
+      }
+    ]
+  },
+  "ch05-string-44": {
+    "language": "c",
+    "source": "solutions/ch05-string-44.c",
+    "cases": [
+      {
+        "input": "2\nseven four + nine =\neight + two four five =",
+        "output": "83\n253",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1\nzero + one zero =\n",
+        "output": "10\n",
+        "reason": "检查zero和多位拼接。"
+      }
+    ]
+  },
+  "ch05-string-45": {
+    "language": "c",
+    "source": "solutions/ch05-string-45.c",
+    "cases": [
+      {
+        "input": "Mn.123xyZ",
+        "output": "n.123xyZM",
+        "reason": "原题样例"
+      },
+      {
+        "input": "X\n",
+        "output": "X\n",
+        "reason": "检查单字符旋转不变。"
+      }
+    ]
+  },
+  "ch05-string-46": {
+    "language": "cpp",
+    "source": "solutions/ch05-string-46.cpp",
+    "cases": [
+      {
+        "input": "1.0 1.01\n1.0 1.0",
+        "output": "NO\nYES",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0001.2300 1.23\n1.01 1.001\n",
+        "output": "YES\nNO\n",
+        "reason": "检查等值不同写法和小数内部零。"
+      }
+    ]
+  },
+  "ch05-string-47": {
+    "language": "c",
+    "source": "solutions/ch05-string-47.c",
+    "cases": [
+      {
+        "input": "5\nsaf\ndfdsf\nfghhgfh\nffgf\ndfdsfbg",
+        "output": "3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\nApple\nant\nAnother\n",
+        "output": "2\n",
+        "reason": "检查大小写分族。"
+      }
+    ]
+  },
+  "ch05-string-48": {
+    "language": "c",
+    "source": "solutions/ch05-string-48.c",
+    "cases": [
+      {
+        "input": "if so, You already",
+        "output": "If So, You Already",
+        "reason": "原题样例"
+      },
+      {
+        "input": "  hello\tworld\n",
+        "output": "  Hello\tWorld\n",
+        "reason": "检查开头空格和制表符分词。"
+      },
+      {
+        "input": "hello\rworld\n",
+        "output": "Hello\rWorld\n",
+        "reason": "回车也是词间空白，必须保留行内部的回车并转换其后的首字母。"
+      }
+    ]
+  },
+  "ch05-string-49": {
+    "language": "cpp",
+    "source": "solutions/ch05-string-49.cpp",
+    "cases": [
+      {
+        "input": "I am student",
+        "output": "student am I",
+        "reason": "原题样例"
+      },
+      {
+        "input": "  one   two  three   \n",
+        "output": "three two one\n",
+        "reason": "检查首尾与词间多余空格。"
+      }
+    ]
+  },
+  "ch06-01": {
+    "language": "c",
+    "source": "solutions/ch06-01.c",
+    "cases": [
+      {
+        "input": "ABCDEFG12345",
+        "output": "135",
+        "reason": "原题样例"
+      },
+      {
+        "input": "ABC\n",
+        "output": "\n",
+        "reason": "没有字符同时满足两个条件"
+      }
+    ]
+  },
+  "ch06-02": {
+    "language": "c",
+    "source": "solutions/ch06-02.c",
+    "cases": [
+      {
+        "input": "def35adh3kjsdf7",
+        "output": "defadhkjsdf3537",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a2b1\n",
+        "output": "ab21\n",
+        "reason": "检查两组内部顺序"
+      }
+    ]
+  },
+  "ch06-03": {
+    "language": "c",
+    "source": "solutions/ch06-03.c",
+    "cases": [
+      {
+        "input": "aBCDeFgH\nABcd",
+        "output": "aBcdeFgH",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aZ\nByx\n",
+        "output": "ayx\n",
+        "reason": "两串长度不同且大小关系交替"
+      }
+    ]
+  },
+  "ch06-04": {
+    "language": "c",
+    "source": "solutions/ch06-04.c",
+    "cases": [
+      {
+        "input": "3 4\nTTTT\nSSSS\nHHHH",
+        "output": "TSHTSHTSHTSH",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 2\nab\ncd\n",
+        "output": "acbd\n",
+        "reason": "最小方阵检查行列顺序"
+      }
+    ]
+  },
+  "ch06-05": {
+    "language": "c",
+    "source": "solutions/ch06-05.c",
+    "cases": [
+      {
+        "input": "****A*BC*DEFG*H*******",
+        "output": "ABCDEFGH*******",
+        "reason": "原题样例"
+      },
+      {
+        "input": "****\n",
+        "output": "****\n",
+        "reason": "全为星号"
+      }
+    ]
+  },
+  "ch06-06": {
+    "language": "c",
+    "source": "solutions/ch06-06.c",
+    "cases": [
+      {
+        "input": "-1234",
+        "output": "-1234",
+        "reason": "原题样例"
+      },
+      {
+        "input": "+00042\n",
+        "output": "42\n",
+        "reason": "正号和前导零"
+      }
+    ]
+  },
+  "ch06-07": {
+    "language": "c",
+    "source": "solutions/ch06-07.c",
+    "cases": [
+      {
+        "input": "Mn.123xyz",
+        "output": "n.123xyzM",
+        "reason": "原题样例"
+      },
+      {
+        "input": "Abcde",
+        "output": "bcdeA",
+        "reason": "原题样例"
+      },
+      {
+        "input": "Z\n",
+        "output": "Z\n",
+        "reason": "单字符不变"
+      }
+    ]
+  },
+  "ch06-08": {
+    "language": "c",
+    "source": "solutions/ch06-08.c",
+    "cases": [
+      {
+        "input": "turbo c and borland c++\nn",
+        "output": "turbo c ad borlad c++",
+        "reason": "原题样例"
+      },
+      {
+        "input": "AaA\nA\n",
+        "output": "a\n",
+        "reason": "检查大小写区分"
+      }
+    ]
+  },
+  "ch06-09": {
+    "language": "c",
+    "source": "solutions/ch06-09.c",
+    "cases": [
+      {
+        "input": "Mn.123xyz",
+        "output": "n.123xyzM",
+        "reason": "原题样例"
+      },
+      {
+        "input": "Z\n",
+        "output": "Z\n",
+        "reason": "单字符不变"
+      }
+    ]
+  },
+  "ch06-10": {
+    "language": "c",
+    "source": "solutions/ch06-10.c",
+    "cases": [
+      {
+        "input": "abababcabababc\nab",
+        "output": "m=6",
+        "reason": "原题样例"
+      },
+      {
+        "input": "abcabaab12123\n12",
+        "output": "m=2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aaaa\naa\n",
+        "output": "m=3\n",
+        "reason": "重叠匹配"
+      }
+    ]
+  },
+  "ch06-11": {
+    "language": "c",
+    "source": "solutions/ch06-11.c",
+    "cases": [
+      {
+        "input": "abcdef35adgh3kjsdf7",
+        "output": "4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "a1 b20!\n",
+        "output": "3\n",
+        "reason": "包含空格和连续数字"
+      }
+    ]
+  },
+  "ch06-12": {
+    "language": "c",
+    "source": "solutions/ch06-12.c",
+    "cases": [
+      {
+        "input": "aaas lkaaas\nas",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aaaa\naa\n",
+        "output": "3\n",
+        "reason": "检查允许重叠的匹配"
+      }
+    ]
+  },
+  "ch06-13": {
+    "language": "c",
+    "source": "solutions/ch06-13.c",
+    "cases": [
+      {
+        "input": "45,12",
+        "output": "5241",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12,34\n",
+        "output": "2413\n",
+        "reason": "检查四个数位位置"
+      }
+    ]
+  },
+  "ch06-14": {
+    "language": "c",
+    "source": "solutions/ch06-14.c",
+    "cases": [
+      {
+        "input": "8999999.99",
+        "output": "8999900",
+        "reason": "原题样例"
+      },
+      {
+        "input": "123456.78\n",
+        "output": "123400\n",
+        "reason": "包含十位个位和小数零头"
+      }
+    ]
+  },
+  "ch06-15": {
+    "language": "c",
+    "source": "solutions/ch06-15.c",
+    "cases": [
+      {
+        "input": "27638496",
+        "output": "739",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2468\n",
+        "output": "0\n",
+        "reason": "没有奇数字符"
+      }
+    ]
+  },
+  "ch06-16": {
+    "language": "c",
+    "source": "solutions/ch06-16.c",
+    "cases": [
+      {
+        "input": "17 5",
+        "output": "19 23 29 31 37",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0 3\n",
+        "output": "2 3 5\n",
+        "reason": "排除0和1"
+      }
+    ]
+  },
+  "ch06-17": {
+    "language": "c",
+    "source": "solutions/ch06-17.c",
+    "cases": [
+      {
+        "input": "3",
+        "output": "  5  6  7  8  9 10 11 12 13 14 15  1  2  3  4\n  ",
+        "reason": "原题样例"
+      },
+      {
+        "input": "8",
+        "output": " 10 11 12 13 14 15  1  2  3  4  5  6  7  8  9",
+        "reason": "原题样例"
+      },
+      {
+        "input": "14\n",
+        "output": "  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15\n",
+        "reason": "全部移到末尾时顺序不变"
+      }
+    ]
+  },
+  "ch06-18": {
+    "language": "c",
+    "source": "solutions/ch06-18.c",
+    "cases": [
+      {
+        "input": "876 675 896 101 301 401 980 431 451 777",
+        "output": "6,980",
+        "reason": "原题样例"
+      },
+      {
+        "input": "-5 -2 -9 -2 -8 -7 -6 -5 -4 -3\n",
+        "output": "3,-2\n",
+        "reason": "全负数且最大值重复"
+      }
+    ]
+  },
+  "ch06-19": {
+    "language": "c",
+    "source": "solutions/ch06-19.c",
+    "cases": [
+      {
+        "input": "35",
+        "output": " 1 5 7 35",
+        "reason": "原题样例"
+      },
+      {
+        "input": "100",
+        "output": " 1 5 25",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12\n",
+        "output": " 1 3\n",
+        "reason": "偶数的奇因数"
+      }
+    ]
+  },
+  "ch06-20": {
+    "language": "c",
+    "source": "solutions/ch06-20.c",
+    "cases": [
+      {
+        "input": "6\n1 8 2 3 6 11",
+        "output": "The sum of odd numbers:15\nThe sum of even numbers:16",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4\n-3 -2 0 5\n",
+        "output": "The sum of odd numbers:2\nThe sum of even numbers:-2\n",
+        "reason": "负奇数和零"
+      }
+    ]
+  },
+  "ch07-01": {
+    "language": "cpp",
+    "source": "solutions/ch07-01.cpp",
+    "cases": [
+      {
+        "input": "2017 5 1",
+        "output": "2017-5-1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2017 4 18",
+        "output": "2017-4-18",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2026 1 2\n",
+        "output": "2026-1-2\n",
+        "reason": "月日不补零"
+      }
+    ]
+  },
+  "ch07-02": {
+    "language": "cpp",
+    "source": "solutions/ch07-02.cpp",
+    "cases": [
+      {
+        "input": "5*8",
+        "output": "5*8=40",
+        "reason": "原题样例"
+      },
+      {
+        "input": "20/5",
+        "output": "20/5=4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3+7",
+        "output": "3+7=10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10-3",
+        "output": "10-3=7",
+        "reason": "原题样例"
+      },
+      {
+        "input": "7/2\n3+4\n",
+        "output": "7/2=3\n3+4=7\n",
+        "reason": "整数除法和多组输入"
+      }
+    ]
+  },
+  "ch07-03": {
+    "language": "cpp",
+    "source": "solutions/ch07-03.cpp",
+    "cases": [
+      {
+        "input": "6,4",
+        "output": "perimeter:20,area:24",
+        "reason": "原题样例"
+      },
+      {
+        "input": "12,9",
+        "output": "perimeter:42,area:108",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3,4\n",
+        "output": "perimeter:14,area:12\n",
+        "reason": "非正方形"
+      }
+    ]
+  },
+  "ch07-04": {
+    "language": "cpp",
+    "source": "solutions/ch07-04.cpp",
+    "cases": [
+      {
+        "input": "2 3 4",
+        "output": "1,1,2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 2 3",
+        "output": "1,1,1.73205",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 3 2.25\n",
+        "output": "1,1,1.5\n",
+        "reason": "非完全平方数和小数"
+      }
+    ]
+  },
+  "ch07-05": {
+    "language": "cpp",
+    "source": "solutions/ch07-05.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "         1         1         2         3         5\n         8        13        21        34        55\n        89       144       233       377       610\n       987      1597      2584      4181      6765",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "         1         1         2         3         5\n         8        13        21        34        55\n        89       144       233       377       610\n       987      1597      2584      4181      6765",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-06": {
+    "language": "cpp",
+    "source": "solutions/ch07-06.cpp",
+    "cases": [
+      {
+        "input": "4 8",
+        "output": "4 8",
+        "reason": "原题样例"
+      },
+      {
+        "input": "9 2\n",
+        "output": "2 9\n",
+        "reason": "逆序输入验证引用生效"
+      }
+    ]
+  },
+  "ch07-07": {
+    "language": "cpp",
+    "source": "solutions/ch07-07.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "Jack is a Dog who is 2 years old and 10 pounds weight\nNow Jack is 7 years old and 20 pounds weight.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "Jack is a Dog who is 2 years old and 10 pounds weight\nNow Jack is 7 years old and 20 pounds weight.",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-08": {
+    "language": "cpp",
+    "source": "solutions/ch07-08.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "Area: 4000",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "Area: 4000",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-09": {
+    "language": "cpp",
+    "source": "solutions/ch07-09.cpp",
+    "cases": [
+      {
+        "input": "10 6",
+        "output": "length is 10, width is 6, area is 60",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2.5 4\n",
+        "output": "length is 2.5, width is 4, area is 10\n",
+        "reason": "小数长宽防止隐式截断"
+      }
+    ]
+  },
+  "ch07-10": {
+    "language": "cpp",
+    "source": "solutions/ch07-10.cpp",
+    "cases": [
+      {
+        "input": "6",
+        "output": "radius is 6,perimeter is 37.68,area is 113.04",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\n",
+        "output": "radius is 2,perimeter is 12.56,area is 12.56\n",
+        "reason": "整数半径"
+      }
+    ]
+  },
+  "ch07-11": {
+    "language": "cpp",
+    "source": "solutions/ch07-11.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "this tree's age is 12\nthis tree's age is 16\n",
+        "reason": "固定对象生长演示"
+      }
+    ]
+  },
+  "ch07-12": {
+    "language": "cpp",
+    "source": "solutions/ch07-12.cpp",
+    "cases": [
+      {
+        "input": "1 1\n",
+        "output": "volume is:  3.14159",
+        "reason": "默认精度与指定PI"
+      }
+    ]
+  },
+  "ch07-13": {
+    "language": "cpp",
+    "source": "solutions/ch07-13.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "600001\n3000\n5.67\n600002\n1000\n8.98\n",
+        "reason": "显式参数和默认参数各一对象"
+      }
+    ]
+  },
+  "ch07-14": {
+    "language": "cpp",
+    "source": "solutions/ch07-14.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "201601   john   85\n201602   mike   90\n201603   june   95\n共有3位学生，平均成绩为：90\n",
+        "reason": "三个对象共享统计"
+      }
+    ]
+  },
+  "ch07-15": {
+    "language": "cpp",
+    "source": "solutions/ch07-15.cpp",
+    "cases": [
+      {
+        "input": "2\n",
+        "output": "Enter the radius of the pool:\nFencing Cost is $1099\nConcrete Cost is $1318.8\n",
+        "reason": "圆环面积和外周长"
+      }
+    ]
+  },
+  "ch07-16": {
+    "language": "cpp",
+    "source": "solutions/ch07-16.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "The length of the line1 is:5\nThe length of the line2 is:5\n",
+        "reason": "默认拷贝保持坐标"
+      }
+    ]
+  },
+  "ch07-17": {
+    "language": "cpp",
+    "source": "solutions/ch07-17.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "5.9+7.4i\n-1.3+1.8i\n-4.6+23i\n1.01731+0.486538i",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-18": {
+    "language": "cpp",
+    "source": "solutions/ch07-18.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "Name of book: Book1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "Name of book: Book1\n",
+        "reason": "派生类读取基类名称"
+      }
+    ]
+  },
+  "ch07-19": {
+    "language": "cpp",
+    "source": "solutions/ch07-19.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "The area of the Circle is 78.5\nThe area of the Rectangle is 24\nThe area of the Square is 25",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "The area of the Circle is 78.5\nThe area of the Rectangle is 24\nThe area of the Square is 25\n",
+        "reason": "多层派生和输出精度"
+      }
+    ]
+  },
+  "ch07-20": {
+    "language": "cpp",
+    "source": "solutions/ch07-20.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "Mammal constructor......\nDog constructor......\nMammal sound!\nTail wagging......\njack is 2 years old, 20 pounds, grown.\nDog destructor......\nMammal destructor......",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "Mammal constructor......\nDog constructor......\nMammal sound!\nTail wagging......\njack is 2 years old, 20 pounds, grown.\nDog destructor......\nMammal destructor......\n",
+        "reason": "核对构造和析构顺序"
+      }
+    ]
+  },
+  "ch07-21": {
+    "language": "cpp",
+    "source": "solutions/ch07-21.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "建筑物名称：江山瑞城, 层数：3, 总面积：200平方米, 卧室数：5, 浴室数：2.\n建筑物名称：工科楼E, 层数：20, 总面积：10000平方米, 办公室数：2000, 会议室数：100.",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "建筑物名称：江山瑞城, 层数：3, 总面积：200平方米, 卧室数：5, 浴室数：2.\n建筑物名称：工科楼E, 层数：20, 总面积：10000平方米, 办公室数：2000, 会议室数：100.",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-22": {
+    "language": "cpp",
+    "source": "solutions/ch07-22.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "Tom,100\n6000\nMike,1001\n20,8",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "Tom,100\n6000\nMike,1001\n20,8",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-23": {
+    "language": "cpp",
+    "source": "solutions/ch07-23.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "姓名：皮皮\n出生年月：2000年12月21日\n出生时间：10时15分25秒",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "姓名：皮皮\n出生年月：2000年12月21日\n出生时间：10时15分25秒",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "ch07-24": {
+    "language": "cpp",
+    "source": "solutions/ch07-24.cpp",
+    "cases": [
+      {
+        "input": "",
+        "output": "The Surface area of the Sphere is 314\nThe Volume of the Sphere is 523.333\nThe Surface area of the Cylinder is 345.4\nThe Volume of the Cylinder is 471\nThe Surface area of the Cube is 150\nThe Volume of the Cube is 125",
+        "reason": "原题样例"
+      },
+      {
+        "input": "",
+        "output": "The Surface area of the Sphere is 314\nThe Volume of the Sphere is 523.333\nThe Surface area of the Cylinder is 345.4\nThe Volume of the Cylinder is 471\nThe Surface area of the Cube is 150\nThe Volume of the Cube is 125",
+        "reason": "按题目固定演示流程核对输出"
+      }
+    ]
+  },
+  "quiz2-01": {
+    "language": "c",
+    "source": "solutions/quiz2-01.c",
+    "cases": [
+      {
+        "input": "163 32",
+        "output": "5 3",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1000 33",
+        "output": "30 10",
+        "reason": "原题样例"
+      },
+      {
+        "input": "10 3\n",
+        "output": "3 1\n",
+        "reason": "检查分不尽时的余数。"
+      }
+    ]
+  },
+  "quiz2-02": {
+    "language": "c",
+    "source": "solutions/quiz2-02.c",
+    "cases": [
+      {
+        "input": "125\n1000",
+        "output": "Happy\nCircle dance",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n18\n27\n",
+        "output": "Circle dance\nCircle dance\nGrumpy\n",
+        "reason": "检查0、8和7的边界。"
+      }
+    ]
+  },
+  "quiz2-03": {
+    "language": "c",
+    "source": "solutions/quiz2-03.c",
+    "cases": [
+      {
+        "input": "90.12 170\n120 130\n204.51 200",
+        "output": "582100\n592800\n1554200",
+        "reason": "原题样例"
+      },
+      {
+        "input": "30 100\n",
+        "output": "114000\n",
+        "reason": "检查总价本身为整百时不多减100。"
+      }
+    ]
+  },
+  "quiz2-04": {
+    "language": "c",
+    "source": "solutions/quiz2-04.c",
+    "cases": [
+      {
+        "input": "2000 3500",
+        "output": "2025\n3025",
+        "reason": "原题样例"
+      },
+      {
+        "input": "9800 9802\n",
+        "output": "9801\n",
+        "reason": "检查靠近上界的满足条件整数。"
+      }
+    ]
+  },
+  "quiz2-05": {
+    "language": "c",
+    "source": "solutions/quiz2-05.c",
+    "cases": [
+      {
+        "input": "6\n1 5\n2 3\n3 4\n6 7\n8 9\n10 12",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "4\n0 1\n1 2\n0 2\n2 24\n",
+        "output": "2\n",
+        "reason": "检查同一端点先结束可立即开课。"
+      }
+    ]
+  },
+  "quiz3-01": {
+    "language": "c",
+    "source": "solutions/quiz3-01.c",
+    "cases": [
+      {
+        "input": "3\n1000 10 123456789\n1000 10 123456788\n1000 10 123456787",
+        "output": "123456789",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n100 5 111111111\n101 9 222222222\n101 8 333333333\n",
+        "output": "333333333\n",
+        "reason": "检查长度优先、直径次之。"
+      }
+    ]
+  },
+  "quiz3-02": {
+    "language": "c",
+    "source": "solutions/quiz3-02.c",
+    "cases": [
+      {
+        "input": "10\n91 92 97 85 72 94 82 62 84 84",
+        "output": "Yes",
+        "reason": "原题样例"
+      },
+      {
+        "input": "20\n71 88 83 72 91 69 87 59 90 90 99 100 62 93 60 90 75 75 83 80",
+        "output": "Yes",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2\n100 59\n",
+        "output": "No\n",
+        "reason": "检查有优良学生但及格率不足。"
+      }
+    ]
+  },
+  "quiz3-03": {
+    "language": "c",
+    "source": "solutions/quiz3-03.c",
+    "cases": [
+      {
+        "input": "66786\n12345789\n162636666",
+        "output": "zan!zan!zan!\n\nzan!zan!zan!zan!zan!zan!",
+        "reason": "原题样例"
+      },
+      {
+        "input": "123\n606\n",
+        "output": "\nzan!zan!\n",
+        "reason": "检查无6的空行和两个6。"
+      }
+    ]
+  },
+  "quiz3-04": {
+    "language": "c",
+    "source": "solutions/quiz3-04.c",
+    "cases": [
+      {
+        "input": "10\n100\n0",
+        "output": "2\n4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "8\n13\n0\n",
+        "output": "3\n1\n",
+        "reason": "检查重复质因子和素数。"
+      }
+    ]
+  },
+  "quiz3-05": {
+    "language": "c",
+    "source": "solutions/quiz3-05.c",
+    "cases": [
+      {
+        "input": "4 5 3 1 3 4 2 7 -1",
+        "output": "3 4",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0 2 0 2 -1\n",
+        "output": "0 2\n",
+        "reason": "检查编号0合法及并列输出无尾空格。"
+      }
+    ]
+  },
+  "quiz4-01": {
+    "language": "c",
+    "source": "solutions/quiz4-01.c",
+    "cases": [
+      {
+        "input": "12 6 7",
+        "output": "210",
+        "reason": "原题样例"
+      },
+      {
+        "input": "5 2 1\n",
+        "output": "5\n",
+        "reason": "检查只读一天。"
+      }
+    ]
+  },
+  "quiz4-02": {
+    "language": "c",
+    "source": "solutions/quiz4-02.c",
+    "cases": [
+      {
+        "input": "4",
+        "output": "11",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n",
+        "output": "1\n",
+        "reason": "检查零刀的初始状态。"
+      }
+    ]
+  },
+  "quiz4-03": {
+    "language": "c",
+    "source": "solutions/quiz4-03.c",
+    "cases": [
+      {
+        "input": "3 3 \n1 0 1\n0 0 1\n1 1 0\n1 1 0\n0 0 1\n0 0 1",
+        "output": "44.44",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 2\n0 255\n0 0\n",
+        "output": "50.00\n",
+        "reason": "检查一半位置相同。"
+      }
+    ]
+  },
+  "quiz4-04": {
+    "language": "c",
+    "source": "solutions/quiz4-04.c",
+    "cases": [
+      {
+        "input": "234AJK7788QA\nK 78\n*J",
+        "output": "1",
+        "reason": "原题样例"
+      },
+      {
+        "input": "K 78\n*Q\n",
+        "output": "2\n",
+        "reason": "检查手牌含空格与第二位玩家持Q。"
+      }
+    ]
+  },
+  "quiz4-05": {
+    "language": "c",
+    "source": "solutions/quiz4-05.c",
+    "cases": [
+      {
+        "input": "1232232112322321\n121121\nabba",
+        "output": "1232\n121\nab",
+        "reason": "原题样例"
+      },
+      {
+        "input": "aaaa\n121\n",
+        "output": "a\n121\n",
+        "reason": "检查多轮恢复和奇数回文停止。"
+      }
+    ]
+  },
+  "quiz5-01": {
+    "language": "c",
+    "source": "solutions/quiz5-01.c",
+    "cases": [
+      {
+        "input": "11:00 11:10\n17:30 17:45",
+        "output": "Level2 2.50",
+        "reason": "原题样例"
+      },
+      {
+        "input": "11:00 11:06\n17:00 17:12\n",
+        "output": "Equal 2.00\n",
+        "reason": "检查平均耗时相同的分支。"
+      }
+    ]
+  },
+  "quiz5-02": {
+    "language": "c",
+    "source": "solutions/quiz5-02.c",
+    "cases": [
+      {
+        "input": "3 1",
+        "output": "3 1 75.00",
+        "reason": "原题样例"
+      },
+      {
+        "input": "100 300\n",
+        "output": "300 100 75.00",
+        "reason": "检查函数通过指针交换原变量。"
+      }
+    ]
+  },
+  "quiz5-03": {
+    "language": "c",
+    "source": "solutions/quiz5-03.c",
+    "cases": [
+      {
+        "input": "1,250",
+        "output": "12A",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2,400\n",
+        "output": "24A\n",
+        "reason": "检查2龄A级的上边界。"
+      }
+    ]
+  },
+  "quiz5-04": {
+    "language": "c",
+    "source": "solutions/quiz5-04.c",
+    "cases": [
+      {
+        "input": "1 1",
+        "output": "2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 4 8 987 999\n",
+        "output": "3\n",
+        "reason": "检查首项、最大范围内斐波那契数和非成员。"
+      }
+    ]
+  },
+  "quiz5-05": {
+    "language": "c",
+    "source": "solutions/quiz5-05.c",
+    "cases": [
+      {
+        "input": "187 159\n169 159\n187 196\n0",
+        "output": "G159 G187",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 10\n1 10\n0\n",
+        "output": "G001 G010\n",
+        "reason": "检查小编号补零和并列车次。"
+      }
+    ]
+  },
+  "quiz5-06": {
+    "language": "c",
+    "source": "solutions/quiz5-06.c",
+    "cases": [
+      {
+        "input": "hunao 19990909",
+        "output": "Hunao019990909",
+        "reason": "原题样例"
+      },
+      {
+        "input": "huN 12\n",
+        "output": "huN012\n",
+        "reason": "检查已有大写字母时首字母保持小写。"
+      }
+    ]
+  },
+  "quiz6-01": {
+    "language": "c",
+    "source": "solutions/quiz6-01.c",
+    "cases": [
+      {
+        "input": "18:55 11:00",
+        "output": "7:55",
+        "reason": "原题样例"
+      },
+      {
+        "input": "00:10 00:20\n",
+        "output": "23:50\n",
+        "reason": "检查跨午夜的借位。"
+      }
+    ]
+  },
+  "quiz6-02": {
+    "language": "c",
+    "source": "solutions/quiz6-02.c",
+    "cases": [
+      {
+        "input": "90 90 90",
+        "output": "A",
+        "reason": "原题样例"
+      },
+      {
+        "input": "90 80 70\n",
+        "output": "B\n",
+        "reason": "检查平均分恰为评级边界。"
+      }
+    ]
+  },
+  "quiz6-03": {
+    "language": "c",
+    "source": "solutions/quiz6-03.c",
+    "cases": [
+      {
+        "input": "1234560\n11",
+        "output": "4\n0",
+        "reason": "原题样例"
+      },
+      {
+        "input": "0\n-2049\n",
+        "output": "1\n3\n",
+        "reason": "检查0和带负号整数的数字位。"
+      }
+    ]
+  },
+  "quiz6-04": {
+    "language": "c",
+    "source": "solutions/quiz6-04.c",
+    "cases": [
+      {
+        "input": "10\n90 90 90 90 90 90 90 90 90 90",
+        "output": "90.00 90 90\n90 90 90 90 90 90 90 90 90 90",
+        "reason": "原题样例"
+      },
+      {
+        "input": "3\n60 100 80\n",
+        "output": "80.00 100 60\n100 80 60 \n",
+        "reason": "检查排序、平均值和指针返回最值。"
+      }
+    ]
+  },
+  "quiz6-05": {
+    "language": "c",
+    "source": "solutions/quiz6-05.c",
+    "cases": [
+      {
+        "input": "3 4 5 6 7 7",
+        "output": "1\n2",
+        "reason": "原题样例"
+      },
+      {
+        "input": "1 2 3 4 5 6 7\n",
+        "output": "",
+        "reason": "检查七天都出现时无任何输出。"
+      }
+    ]
+  },
+  "quiz6-06": {
+    "language": "c",
+    "source": "solutions/quiz6-06.c",
+    "cases": [
+      {
+        "input": "1 red\n3 red red brown\n-1",
+        "output": "68\n128\nmax=128",
+        "reason": "原题样例"
+      },
+      {
+        "input": "2 red brown\n1 blue\n-1\n",
+        "output": "78\n58\nmax=78\n",
+        "reason": "检查双侧重量以及前面组为最大。"
+      }
+    ]
+  }
+}
