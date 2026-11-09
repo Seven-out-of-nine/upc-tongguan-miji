@@ -73,9 +73,7 @@ int main() {
 
 ## 知识点总结
 
-- istringstream：把一段字符串当作输入流读取。
-- vector<string>：保存最多100个词，不限制每词实际字符数。
-- i>0并访问i-1：从末词开始，避免无符号下标减到负值。
+- **istringstream按词解析文本**：<sstream>中的std::istringstream input(line)把已有字符串当成输入流。while(input >> word)依次提取单词并自动跳过连续空白，不必改变原始输入或自己维护分词起点。
 
 ## 易错点
 

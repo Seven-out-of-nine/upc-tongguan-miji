@@ -121,11 +121,8 @@ int main(void)
 
 ## 知识点总结
 
-- const char text[]：函数读取一串字符，并在\0处停止。
-- 字符减法：'A'-'A'+10=10，用统一规则支持大写字母数字。
-- continue：跳过M当前非法进制，开始下一次外层枚举。
-- 嵌套枚举与return：由小到大尝试进制，找到第一对立即结束，确定多解时的输出顺序。
-- value>(limit-digit)/base：在执行value*base+digit之前判断上界。
+- **按位权解析任意进制字符串**：把0到9解释为数位0到9，把A到Z解释为10到35；从左到右重复value=value*base+digit，便把各位的位权纳入数值。每个digit必须小于base，且进制至少为2；乘加前可用value>(limit-digit)/base检查是否超界。
+- **continue开始当前循环的下一轮**：continue跳过当前这一轮剩余代码，直接进入它所在循环的下一轮；在for中会先执行更新表达式。本题M在当前base_m下非法时continue外层循环，省去整组无意义的N进制枚举；它与结束整个循环的break不同。
 
 ## 易错点
 

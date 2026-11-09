@@ -60,9 +60,7 @@ int main(void)
 
 ## 知识点总结
 
-- 整数除法与取余：n/7分出完整周，n%7取不足一周的天数。
-- 上限限制：remaining超过5时改成5，表达“每周最多跑5次”。
-- +=：count+=remaining等价于count=count+remaining。
+本题没有新增知识点，沿用前文写法，重点见上面的解题讲解。
 
 ## 易错点
 

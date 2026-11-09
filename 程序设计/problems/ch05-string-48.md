@@ -73,9 +73,7 @@ int main(void) {
 
 ## 知识点总结
 
-- isspace(c)：识别空格、制表符等空白字符。
-- start=1：允许多个连续空白后正确找到词首。
-- unsigned char：保证传给ctype函数的字符值合法。
+- **ctype字符分类函数**：<ctype.h>中的isspace(c)识别空格、制表符、回车、换行等空白，而不是只识别' '。这类函数的实参必须是EOF或能表示为unsigned char的值，所以先把普通char转成unsigned char再传入，避免负字符值带来的未定义行为。
 
 ## 易错点
 

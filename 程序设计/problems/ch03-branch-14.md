@@ -65,9 +65,8 @@ int main(void)
 
 ## 知识点总结
 
-- switch/case：适合将一个整数的若干固定取值映射为不同结果。
-- break：结束switch，防止继续执行下一个case。
-- default：所有case都不匹配时执行，本题用于处理错误数字。
+- **switch与case分派**：switch(表达式)把整数或字符值与case常量匹配，从命中的case开始执行；未命中可由default处理。它适合星期编号、运算符等离散值，不能把x<60等连续区间条件直接写成case。
+- **break退出当前结构**：break退出当前最近一层循环或switch，从该结构后继续执行。本题在case输出后写break，防止继续执行后续case；嵌套循环中它只退出最近一层，不结束全部循环或函数。
 
 ## 易错点
 

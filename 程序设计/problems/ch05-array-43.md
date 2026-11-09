@@ -71,11 +71,7 @@ int main(void)
 
 ## 知识点总结
 
-- (long long)first[i]*second：强制转换在乘法之前进行，让乘积使用64位整数计算。
-- const long long base：定义不会修改的十进制分块基数。
-- 商与余数恒等式：product=(product/base)*base+product%base，负数也成立。
-- high+=low/base与low%=base：将低块进位或借位到高块，保持总值不变。
-- %lld：输出long long，虽然最终保证在int内，表示过程使用更宽类型。
+- **分块保存可能超宽的中间总和**：若最终和很小但正负乘积可能先累计得很大，可将总和表示为high*base+low。每个乘积按商、余数分别加入两块，再把low中超过base的部分移入high并保留余数，保持总值精确，避免因中间超出单个整数类型而溢出。
 
 ## 易错点
 

@@ -87,11 +87,8 @@ int main(void)
 
 ## 知识点总结
 
-- long double：通常比double提供更多有效数字，减小判别式相减时的精度损失；scanf读取它用%Lf。
-- fabsl与sqrtl：<math.h>中适用于long double的绝对值和平方根函数，sqrtl只在判别式非负时使用。
-- LDBL_EPSILON：<float.h>给出的机器精度，用它估计乘减运算的舍入误差；不能直接把a的1e-6阈值用于判别式。
-- 临时变量交换：temp暂存x1，再将x2放入x1，最后把原x1放入x2。
-- %.3Lf：输出long double时保留3位小数，两根中间用英文逗号。
+- **扩展浮点精度与舍入误差**：浮点近似可能使本应为0的乘减结果留下微小残差。long double通常精度更高，读写用%Lf，配套fabsl、sqrtl；<float.h>中的LDBL_EPSILON描述机器精度，本题仅据此估计舍入误差，不把a的1e-6阈值任意套给判别式。
+- **用临时变量交换数值**：交换两个变量先用temp保存第一个旧值，再依次a=b、b=temp；直接a=b后b=a会丢失原a，使两者相同。本题借此把两个根调整为从小到大。
 
 ## 易错点
 

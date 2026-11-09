@@ -81,9 +81,7 @@ int main(void)
 
 ## 知识点总结
 
-- while(left<=right)：两个端点相等时还有一个候选，需要继续检查。
-- mid=left+(right-left)/2：得到中间下标，并避免left+right相加可能溢出。
-- left=mid+1与right=mid-1：中间值已经检查过，必须排除它才能持续缩小区间。
+- **有序数组的二分查找**：在已升序的数组中，用left、right保留尚未排除的闭区间，每轮检查mid。中间值小于目标就令left=mid+1，大于目标就令right=mid-1，相等即成功；left>right表示没有候选。每次至少排除一半，查询约需log₂n轮。
 
 ## 易错点
 

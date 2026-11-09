@@ -122,9 +122,7 @@ int main()
 
 ## 知识点总结
 
-- term/=i：等价于term=term/i；term为double，因此执行浮点除法。
-- for循环上界<=n：恰好计入1/n!。
-- double GetSum(int n)：参数是项数，返回值是含小数的和。
+本题没有新增知识点，沿用前文写法，重点见上面的解题讲解。
 
 ## 易错点
 
